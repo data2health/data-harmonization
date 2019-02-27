@@ -4,7 +4,7 @@ Clinical data in CTSA hubs are not readily queryable in a federated fashion.  Ma
 Enabling the CTSA to function as a federated network of clinical data, supporting multicenter research is among the core goals of the program. This project advances that agenda through common data model harmonization.
 
 ## Problem statement
-Please include a Project Statement on your landing page. Your problem statement should be in the form of: What can CTSAs/the community not do now, that would be addressed by this project's success? A problem statement should be a clear vision and the overall method that will be used to solve the problem at hand. 
+Data respositories across CTSA hubs need to have semantic and syntactic alignment to support federated query.  This must impose a minimal maintenence burden on CTSA hub sites.  Leveraging the native FHIR APIs, no proposed as required for US EHRs by CMS, would mitigate ETL costs and maintenence issues.
 
 ## Project description
 (we will migrate these from the Project Matrix for you)
