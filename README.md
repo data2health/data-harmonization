@@ -11,6 +11,9 @@ Data respositories across CTSA hubs need to have semantic and syntactic alignmen
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pretium a felis non scelerisque. Etiam molestie nisi ut mi viverra dictum. Nunc et tempor quam. Maecenas a viverra sapien. Aliquam lacinia sagittis lorem ac sodales. Fusce justo mi, cursus sed metus sed, ornare vestibulum mauris. Donec in orci ornare, facilisis nisl ut, congue libero.
 
+### Sub-projects
+- [Clinical adaptor](https://github.com/data2health/clinical-adaptor)
+
 ## Contact person
 
 We require a contact person for each project for administrative purposes. Each project should also have a CD2H Program director assigned.
