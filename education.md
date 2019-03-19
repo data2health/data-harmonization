@@ -1,9 +1,9 @@
-Each project should propose a set of educational activities, listed separately in the Education Plan file. Please reference any of the following that apply:
+Data harmonization is more a process than an education goal.  Nevertheless, orientation to relevent concepts will be important:
 
-- Educational resources that will be generated (these can be milestones and/or files in the repo)
-- Educational opportunities (please indicate for which type of learner and how to participate)
-- Best practices guides
-- Use Cases (very important for abstract projects)
-- Documentation/Tutorials
+- Orientation to the goals of federated data anlystics and inferencing
+- Foster an understanding of common data models, and the disconance of having multipe "common" models
+- Appreciation of the advantages of research data schema being anchored on clinical schema (e.g. FHIR)
+- Elucidating the use cases for FHIR-based harmonization
+- Documentaiton and tutorial on FHIR and FHIR data intrgration and harmonization processes
 
 Please include education related issues where relevant, tagged with "education".
