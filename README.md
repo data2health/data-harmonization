@@ -42,23 +42,17 @@ See https://github.com/data2health/project-repo-template/tree/master/team.md
 
 ## Repositories
 
-List Github repositories associated with the project. Each project requires at least one repository to house the administrative tracking and public information. You can either add this information to an existing repository, or create a new one and list the associated repositories below. Please be sure to tag any repositories not under the data2health organization with the topic 'data2health'. Project repositories must be public. Some repositories may be private for sensitivity or operational reasons. 
-
-Example repos:
-- https://github.com/data2health/project-repo-template
-- https://github.com/data2health/operations; private repo editable by members of team @data2health/ops
+Many repositories could be listed here, including FHIR sites and CDM data models.  However, for parsimony, we presently list only the tightly related CD2H child repo.
+Child repo:
+- https://github.com/data2health/clinical-adaptor
 
 ## Deliverables
-Each project should propose one or more deliverables. Examples: a released code package, a best practices document, a final survey, a set of survey results, etc.
+Key long-term deliverables
+- A coherent common data model across CTSA hubs, arising naturally from their EHR sources.
+- Shared terminology services across the CTSA community 
 
 ## Milestones 
-Each deliverable is represented as a Milestone, but not all Milestones need be deliverables. For example, see this 'report on XYZ' is a [Deliverable Milestone](https://github.com/data2health/project-repo-template/milestone/2)
-
-Please create 4-8 Milestones for each project, with dates prior to August 31st.  Milestones for partially completed deliverables are acceptable: beta release of software, # interviews performed, 75% coverage, etc. 
-
-Each Milestone must have at least one Issue (aka 'ticket'), each issue should be assigned to a person, preferably one at a time; reassignments are fine. Issues with checklists showing degree of completion are also acceptable, see [example](https://github.com/data2health/project-repo-template/issues/2).
-
-GitHub help on Milestones is [here](https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests/)
+Milestones are listed, though at present are quite general.
 
 ## Evaluation
 Each project should propose a set of evaluation measures, recorded in a separate Evaluation Plan file, for example [here](https://github.com/data2health/project-repo-template/blob/master/evaluation.md). These will be reviewed by the Evaluation committee and approved by the Program Directors and NCATS. The Evaluation committee will meet with each Project team leads to assist. 
