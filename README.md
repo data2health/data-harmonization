@@ -43,9 +43,9 @@ See https://github.com/data2health/project-repo-template/tree/master/team.md
 
 ## Repositories
 
-Many repositories could be listed here, including FHIR sites and CDM data models.  However, for parsimony, we presently list only the tightly related CD2H child repo.
-Child repo:
-- https://github.com/data2health/clinical-adaptor
+Many repositories could be listed here, including FHIR sites and CDM data models.  However, for parsimony, we presently list only the main FHIR project.
+
+- https://www.hl7.org/fhir
 
 ## Deliverables
 Key long-term deliverables
