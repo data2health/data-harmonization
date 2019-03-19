@@ -16,6 +16,7 @@ TODO see [here](https://github.com/data2health/roadmap/blob/master/cd2h-foa.md)
 
 ### Sub-projects
 - [Clinical adaptor](https://github.com/data2health/clinical-adaptor)
+- [ehr2HPO](https://github.com/data2health/ehr2HPO.prj)
 
 ## Contact person
 
