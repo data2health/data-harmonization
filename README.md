@@ -16,11 +16,12 @@ TODO see [here](https://github.com/data2health/roadmap/blob/master/cd2h-foa.md)
 
 ### Sub-projects
 - [Clinical adaptor](https://github.com/data2health/clinical-adaptor)
+
+### Related Projects
+- [HOT FHIR](https://github.com/data2health/hot-fhir-projects)
 - [ehr2HPO](https://github.com/data2health/ehr2HPO.prj)
 
 ## Contact person
-
-We require a contact person for each project for administrative purposes. Each project should also have a CD2H Program director assigned.
 
 Point person (github handle) | Site | Program Director
 ----------|--------------|---------------
