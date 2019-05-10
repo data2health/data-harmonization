@@ -43,9 +43,10 @@ See https://github.com/data2health/project-repo-template/tree/master/team.md
 
 ## Repositories
 
-Many repositories could be listed here, including FHIR sites and CDM data models.  However, for parsimony, we presently list only the main FHIR project.
+Many repositories could be listed here, including FHIR sites and CDM data models.  However, for parsimony, we presently list the main FHIR project and the NCATS supported clinicalprofiles.org.
 
 - https://www.hl7.org/fhir
+- http://model.clinicalprofile.org
 
 ## Deliverables
 Key long-term deliverables
@@ -58,16 +59,9 @@ Milestones are listed, though at present are quite general.
 ## Evaluation
 Evaluation of data harmonization will ultimately rest with its impact on our community.  The goal is to enable federated query and inferencing at scale across the CTSA community.  There are likley to be many lesser advantages and consequences.  Several evaluation issues are in place, though we expect they will evolve with time.  
 
-Each project should have Evaluation-realated issues, that can be tagged with the "evaluation" tag. see [Example Evaluation Issue](https://github.com/data2health/project-repo-template/issues/5)
-
 ## Education
-Each project should propose a set of educational activities, listed separately in the Education Plan file. 
-Please reference any of the following that apply: 
-- Educational resources that will be generated (these can be milestones and/or files in the repo)
-- Educational opportunities (please indicate for which type of learner and how to participate)
-- Best practices guides
+We anticipate substantial need to educated the CTSA community about elements of the well-known FHIR specification relevent to translational research.  In particular, the notion of managing FHIR as a canonical model, with migration paths to traditional common data models (e.g. OMOP/OHDSI, PCORNet, ACT, etc.)
 
-Please include education related issues where relevant, tagged with "education". 
 
 ## Get involved
 We encourage the community to get involved. 
@@ -84,8 +78,3 @@ Documentation may be natively in GitHub using the wiki or .md files in the appro
 
 ## Slack room
 [The project slack room](https://cd2h.slack.com/messages/C9D9SQWEQ) is accessible to onboarded participants. You will not automatically be added to Slack, please join via the link above.
-
-## Need help with GitHub? See the Managing Tranlational Informatics Projects (MTIP) tutorial
-
-This [tutorial](https://data2health.github.io/mtip-tutorial/lessons/Lesson5.html) covers markdown basics and more.
-
