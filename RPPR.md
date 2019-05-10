@@ -2,9 +2,11 @@
 Don't edit this - the RPPR generator populates this section
 
 # Research Design
-EXAMPLE FROM SCITS:Finding resources of translational relevancy across the CTSA program. This platform aims to reveal and connect expertise, services, educational resources, datasets, software tools, and other translational artifacts.
+**EXAMPLE FROM SCITS:**
+Finding resources of translational relevancy across the CTSA program. This platform aims to reveal and connect expertise, services, educational resources, datasets, software tools, and other translational artifacts.
 # Methodology
-EXAMPLE FROM SCITS: Organizations expend substantial effort maintaining local databases of effectively the same data - people, publications, grants, etc. and the challenge of scholar disambiguation and longitudinal data collection and tracking remains unsolved. The Science of translational science platform performs large-scale data integration from a large variety of sources using both structured and unstructured information. These data elements are indexed using semantic technologies for querying and discovery. A user interface will allow querying and exploration. Finally, widgets will be built to deliver context-specific content to CTSA hubs, CLIC Forums, the Compeititions review software, etc.
+**EXAMPLE FROM SCITS:** 
+Organizations expend substantial effort maintaining local databases of effectively the same data - people, publications, grants, etc. and the challenge of scholar disambiguation and longitudinal data collection and tracking remains unsolved. The Science of translational science platform performs large-scale data integration from a large variety of sources using both structured and unstructured information. These data elements are indexed using semantic technologies for querying and discovery. A user interface will allow querying and exploration. Finally, widgets will be built to deliver context-specific content to CTSA hubs, CLIC Forums, the Compeititions review software, etc.
 
 A shared data environment in the form of a warehouse of research data was strongly endorsed by participants in the most recent PEA Community meeting. Collaborative population and maintenance of common data would reduce local hub effort, improve data quality, and serve as an exemplar of collaborative activity for the CTSA program and NIH programs overall. Substantial effort has been spent on this topic by hubs establishing priorities and developing manual and semi-automated processes which can help to guide efforts toward automation.
 
