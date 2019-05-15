@@ -11,7 +11,7 @@ We anticipate many points of engagement:
 # Expected Outcomes
 The primary outcomes for this project are:
 * a common data model for CTSA leveraging clinical standards such FHIR
-* migration pathways to and from the FHIR sever and traditional data models
+* migration pathways to and from the FHIR server and traditional data models
 * the beginning of federated query that can scale across the CTSAs with minimal impedance 
 # Timeline (monthly)
 * 6/1 – Experiment with FHIR server as back-end for CTSA EHR data
@@ -27,6 +27,6 @@ The primary outcomes for this project are:
 A significant number of FHIR servers, open source and vendor supported, are appearing.  Ideally CTSA hubs would agree on a single FHIR serverThese   Further, while supported servers are stable, they come with maintenance costs that some CTSA hubs may prefer not to support.
 * An alternative is to ensure that whatever FHIR server choices are made, suitable open-source alternatives are readily available
 
-Data transformation is expected to be minimal from EHRs to FHIR severs via FHIR APIs.  However, the output of FHIR APIs is not uniformly conformant to specification.  Furthermore, FHIR is deliberately underspecified.  
+Data transformation is expected to be minimal from EHRs to FHIR servers via FHIR APIs.  However, the output of FHIR APIs is not uniformly conformant to specification.  Furthermore, FHIR is deliberately underspecified.  
 * Working with traditional common data models, and especially the ACT effort already within CTSA, derive a fully specified extension of the clinical FHIR specification suitable for translational research
 * Begin to design, build, validate, and incrementally enhance data transformation services that ensure comparable and consistent data in CTSA FHIR servers
