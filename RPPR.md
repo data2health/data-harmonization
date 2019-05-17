@@ -13,6 +13,12 @@ The primary outcomes for this project are:
 * a common data model for CTSA leveraging clinical standards such FHIR
 * migration pathways to and from the FHIR server and traditional data models
 * the beginning of federated query that can scale across the CTSAs with minimal impedance 
+
+# Deliverables
+Key long-term deliverables
+- A coherent common data model across CTSA hubs, arising naturally from their EHR sources.
+- Shared terminology services across the CTSA community 
+
 # Timeline (monthly)
 * 6/1 – Experiment with FHIR server as back-end for CTSA EHR data
 * 6/1 – Begin evaluation of legacy data models into FHIR servers
