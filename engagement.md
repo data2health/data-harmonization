@@ -8,7 +8,7 @@ Based on discussion at the Federated Data Query Workshop in May 20 & 21, 2019 in
 
 If you are interested in participating, please [onboard here](http://bit.ly/cd2h-onboarding-form)
 
-The CDM-FHIR Gap Analysis Task Team meets just-in-time approximately every 4 - 6 weeks.  Currently we have 24 members across the CTSAs.  For most recent status, see the CDM-FHIR Gap Analysis work product at: https://drive.google.com/drive/folders/1TUwrDaH-2eRv3ofkY1tm2NbX7XttK3hx?usp=sharing
+The CDM-FHIR Gap Analysis Task Team (co-lead Emily Pfaff) meets just-in-time approximately every 4 - 6 weeks.  Currently we have 24 members across the CTSAs.  For most recent status, see the CDM-FHIR Gap Analysis work product at: https://drive.google.com/drive/folders/1TUwrDaH-2eRv3ofkY1tm2NbX7XttK3hx?usp=sharing
 This includes rolling meeting minutes. 
 
 Task Team for Sustainability and Change Management will meet August 21st, 2019 at 11 am ET/8 am PT.  Currently we have 8 members across the CTSAs.  For most recent status, see the Sustainability and Change Management rolling meeting minutes at:
@@ -17,6 +17,7 @@ https://docs.google.com/document/d/1y1WXcouc8YggMlTxCOKXWjoV59gRTteSPAfF_chHumU/
 Once individual members have onboarded and requested their specific interest, you will be added to the meeting invites and email communications for specific task teams.
 
 
+**Overview and Outcomes of the Federated Data Query Workshop**
 The Data Harmonization Working Group in CD2H hosted a two-day Federated Data Query Workshop May 20th & 21st in Baltimore on data harmonization and federated query.  Presentations and slides are available at bit.ly/fdqw-materials.  The first part of the meeting overviewed common data models prevalent among CTSA hubs, outlining their structure, evolution, governance, and operations.  OMOP/OHSDI, PCORNet, and ACT were featured.  Additional presentations were made about HL7 FHIR, including its integration with i2b2 repositories, its role in the NCATS/FDA/CDC data model harmonization efforts, and its potential as a canonical hub for translational research data interoperability.   The importance of maintaining linkages from the traditional common data models into and out of FHIR repositories was emphasized.
  
 The second group of presentations illustrated a federated research query system in South Carolina, built around FHIR queries and data repositories.  Colleagues from the CDC overviewed the challenges of public health data surveillance, and the role that FHIR can play in federate query of clinical organizations.  The CTSA ACT consortium and its leveraging of SHIRE for federated query was expanded upon.  Efforts in large research consortia to incorporate data elements of importance to translational research, such as the eMERGE efforts with genomics, were highlighted.   Finally, practical open-source FHIR servers from Google and the Cerner Bunsen project were described.
