@@ -48,6 +48,7 @@ Many repositories could be listed here, including FHIR sites and CDM data models
 
 - https://www.hl7.org/fhir
 - http://model.clinicalprofile.org
+- https://github.com/NCTraCSIDSci/camp-fhir
 
 ## Deliverables
 Key long-term deliverables
