@@ -20,6 +20,7 @@ Raju Hemadri | [rajuhemadri](https://github.com/rajuhemadri) | NCATS
 Guoqian Jiang | [gqjiang](https://github.com/gqjiang) | Mayo
 Boyd Knosp | [boydknosp](http://github.com/boydknosp) | Iowa
 Bernie LaSalle | [github.com](http://github.com) | UUtahHealth
+Diego Mazzotti | [mazzottidr](https://github.com/mazzottidr) | #N/A
 Julie McMurry | [jmcmurry](http://github.com/jmcmurry) | OSU
 Michele Morris | [github.com](http://github.com) | UPitt
 Sandeep Naredla | [github.com](http://github.com) | NCATS
