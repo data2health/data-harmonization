@@ -79,6 +79,7 @@ Pamela Shaw | [bioscibrarian](https://github.com/bioscibrarian) | Northwestern
 Eric Sid | [ericsid](https://github.com/ericsid) | NCATS
 Tony Solomonides | [github.com](http://github.com) | UChicago
 Julian Solway | [jsolway](http://github.com/jsolway) | UChicago
+Juan Suarez | [github.com](http://github.com) | NYU
 Umit Topaloglu | [umtopaloglu](http://GitHub.com/umtopaloglu) | Wakehealth
 Ali Torkamani | [atorkama](https://github.com/atorkama) | Scripps
 Alfred Vitale | [github.com](http://github.com) | URMC
