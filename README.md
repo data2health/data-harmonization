@@ -73,8 +73,6 @@ We require all CD2H projects to have non-CD2H CTSA participants, as CD2H is a CT
 Please tag any engagment related issues with "engagement".
 
 ## Working documents
-Documentation for the various data harmonization task teams can be found at: https://drive.google.com/drive/folders/14cMMsDExi7KsmkX49d8_zX7ojeCuW7_P?usp=sharing
+Documentation for the various data harmonization task teams can be found at [this Google drive folder](https://drive.google.com/drive/folders/14cMMsDExi7KsmkX49d8_zX7ojeCuW7_P?usp=sharing)
 and project specific work may be in this GitHub using the wiki or .md files.
-
-[The project Google drive folder](https://drive.google.com/drive/u/0/folders/1vLp-H32KTNobiZF2cK82At90S6dVJNUf) is accessible to onboarded participants. 
 
