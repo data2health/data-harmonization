@@ -27,7 +27,7 @@ Tricia Francis (@tricfran) | JHU | Chris Chute (@cgchute)
 
 ## Leads 
 
-Project scientific leadership, should be 1-3 persons. 
+Project scientific leadership: 
 
 Lead(s) (github handle) | Site
 ----------|--------------|
@@ -61,13 +61,13 @@ Evaluation of data harmonization will ultimately rest with its impact on our com
 We anticipate substantial need to educated the CTSA community about elements of the well-known FHIR specification relevent to translational research.  In particular, the notion of managing FHIR as a canonical model, with migration paths to traditional common data models (e.g. OMOP/OHDSI, PCORNet, ACT, etc.)
 
 ## Explore Our Work
-- [Federated Data Query Workshop May 20 & 21st, 2019: Subject Matter Expert Slide & Video Presentations](https://drive.google.com/drive/folders/1kgcoV8BW_9Zg7XLwObw9HXAO4aJLamQQ?usp=sharing) 
-- [Clinical Data Harmonization and Federated Query for Translational Research: Reflections and Report on a CD2H Workshop](https://docs.google.com/document/d/1fda3KLqPfDsAJ3Ah1MdqpxC4PSoCXBNy9ATWSiFG8CY/edit?usp=sharing) 
--- This report, developed by a small team of representatives across the CTSA community, is ready for input across the wider CTSA community.  Your review and input is requested in this collaborative document.   
-- [CDM-FHIR Mappings](https://drive.google.com/drive/folders/1Mrt0xFfvcYhOfoAq_KnT7R5bYk7TZ6h0?usp=sharing)
--- The CDM-FHIR Gap Analaysis Task Team has complied the most comprehensive mappings assembled to date. If you know of any other mappings that you do not see here, please add.    
-- [Data Harmonization Maturity Model](https://docs.google.com/document/d/1IKKbSxe19ZgayDnv5cqTUzDswNGWQvKZNUc2IgZvaL8/edit?usp=sharing)
--- The Sustainability and Change Managenet Task Team has developed a data harmonization maturity model and it is ready for wider CTSA Community input.  Are there other factors that should be considered?
+* [Federated Data Query Workshop May 20 & 21st, 2019: Subject Matter Expert Slide & Video Presentations](https://drive.google.com/drive/folders/1kgcoV8BW_9Zg7XLwObw9HXAO4aJLamQQ?usp=sharing) 
+* [Clinical Data Harmonization and Federated Query for Translational Research: Reflections and Report on a CD2H Workshop](https://docs.google.com/document/d/1fda3KLqPfDsAJ3Ah1MdqpxC4PSoCXBNy9ATWSiFG8CY/edit?usp=sharing) 
+** This report, developed by a small team of representatives across the CTSA community, is ready for input across the wider CTSA community.  Your review and input is requested in this collaborative document.   
+* [CDM-FHIR Mappings](https://drive.google.com/drive/folders/1Mrt0xFfvcYhOfoAq_KnT7R5bYk7TZ6h0?usp=sharing)
+** The CDM-FHIR Gap Analaysis Task Team has complied the most comprehensive mappings assembled to date. If you know of any other mappings that you do not see here, please add.    
+* [Data Harmonization Maturity Model](https://docs.google.com/document/d/1IKKbSxe19ZgayDnv5cqTUzDswNGWQvKZNUc2IgZvaL8/edit?usp=sharing)
+** The Sustainability and Change Managenet Task Team has developed a data harmonization maturity model and it is ready for wider CTSA Community input.  Are there other factors that should be considered?
 
 
 ## Get involved
