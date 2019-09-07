@@ -1,75 +1,16 @@
-# Introductory text
+CTS Personas, a project of the National Center for Data to Health (Grant U24TR002306), is an effort to create Persona profiles representing roles across the ecosystem of translational research: Basic Research → Pre-Clinical Research → Clinical Research → Clinical Implementation → Public Health. These profiles are intended for use for the CTSA community and beyond, to assist those developing software projects, educational and communication materials, and more.
 
-## Stuff
-
-
-## More stuff
-
-# The four children
-* [Child1](Child1.md)
-
-
-# data-harmonization
-Clinical data in CTSA hubs are not readily queryable in a federated fashion.  Many efforts exist to address this, including TriNetX, ACT, PCORNet, and OHDSI among others.  Unifying these with an HL7 FHIR framework is an aspiration. 
-
-Enabling the CTSA to function as a federated network of clinical data, supporting multicenter research is among the core goals of the program. This project advances that agenda through common data model harmonization.
-
-## Problem statement
-Data respositories across CTSA hubs need to have semantic and syntactic alignment to support federated query.  This must impose a minimal maintenence burden on CTSA hub sites.  Leveraging the native FHIR APIs, no proposed as required for US EHRs by CMS, would mitigate ETL costs and maintenence issues.
-
-## Project description
-Harmonize the data ecosystem. An improved data ecosystem will enhance and extend existing work being performed on the NCATS Data Translator system, which integrates clinical and translational data at scale for mechanistic discovery, as well as other emergent systems such as the NIH Commons. We will apply our strengths and existing activities to make data FAIR-TLC: Findable, Accessible, Interoperable, and Reusable, as well as Traceable, Licensable, and Connected. We will assist contributors and users to develop and apply data standards, Common Data Elements (CDEs), and other commonly utilized data models such as FHIR and OHDSI. We will extend and supplement infrastructure, training, and collaborative environments to enable data to be shared openly, so that groups can collaborate on its harmonization based on specific needs or standards. The data ecosystem will provision CTSA-wide quality assurance reports and data quality assessment, as well as gold-standard datasets and synthetic clinical data sets. Fundamentally, we aim to develop an open-science ethos and unite CTSA community data sharing with broader global efforts.
-
-## Alignment to program objectives
-TODO see [here](https://github.com/data2health/roadmap/blob/master/cd2h-foa.md)
-
-### Sub-projects
-- [Clinical adaptor](https://github.com/data2health/clinical-adaptor)
-
-### Related Projects
-- [HOT FHIR](https://github.com/data2health/hot-fhir-projects)
-- [ehr2HPO](https://github.com/data2health/ehr2HPO.prj)
-
-## Contact person
-
-Point person (github handle) | Site | Program Director
-----------|--------------|---------------
-Tricia Francis (@tricfran) | JHU | Chris Chute (@cgchute)
-
-## Leads 
-
-Project scientific leadership: 
-
-Lead(s) (github handle) | Site
-----------|--------------|
-Chris Chute (@cgchute) | JHU 
+* [About](pages/about.md)
+* [The Persona Profiles](pages/profiles/index.md)
+* [User Guidebook](pages/user_guidebook.md)
+* [Sample Use Cases](pages/use_cases/index.md)
+* [FAQs](pages/faqs.md)
+* [Provide Feedback](pages/provide_feedback.md)
 
 
-## Team members 
+![](./images/CD2H_color_logo.png)
 
-Team members are listed [here](https://github.com/data2health/data-harmonization/blob/master/team.md). 
 
-## Repositories
-
-Many repositories could be listed here, including FHIR sites and CDM data models.  However, for parsimony, we presently list the main FHIR project and the NCATS supported clinicalprofiles.org.
-
-- https://www.hl7.org/fhir
-- http://model.clinicalprofile.org
-- https://github.com/NCTraCSIDSci/camp-fhir
-
-## Deliverables
-Key long-term deliverables
-- A coherent common data model across CTSA hubs, arising naturally from their EHR sources.
-- Shared terminology services across the CTSA community 
-
-## Milestones 
-Milestones are listed, though at present are quite general.
-
-## Evaluation
-Evaluation of data harmonization will ultimately rest with its impact on our community.  The goal is to enable federated query and inferencing at scale across the CTSA community.  There are likley to be many lesser advantages and consequences.  Several evaluation issues are in place, though we expect they will evolve with time.  
-
-## Education
-We anticipate substantial need to educated the CTSA community about elements of the well-known FHIR specification relevent to translational research.  In particular, the notion of managing FHIR as a canonical model, with migration paths to traditional common data models (e.g. OMOP/OHDSI, PCORNet, ACT, etc.)
 
 ## Explore Our Work
 * [Federated Data Query Workshop May 20 & 21st, 2019: Subject Matter Expert Slide & Video Presentations](https://drive.google.com/drive/folders/1kgcoV8BW_9Zg7XLwObw9HXAO4aJLamQQ?usp=sharing) 
