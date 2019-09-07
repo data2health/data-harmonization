@@ -7,9 +7,7 @@ Enabling the CTSA to function as a federated network of clinical data, supportin
 Data respositories across CTSA hubs need to have semantic and syntactic alignment to support federated query.  This must impose a minimal maintenence burden on CTSA hub sites.  Leveraging the native FHIR APIs, no proposed as required for US EHRs by CMS, would mitigate ETL costs and maintenence issues.
 
 ## Project description
-(we will migrate these from the Project Matrix for you)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pretium a felis non scelerisque. Etiam molestie nisi ut mi viverra dictum. Nunc et tempor quam. Maecenas a viverra sapien. Aliquam lacinia sagittis lorem ac sodales. Fusce justo mi, cursus sed metus sed, ornare vestibulum mauris. Donec in orci ornare, facilisis nisl ut, congue libero.
+Harmonize the data ecosystem. An improved data ecosystem will enhance and extend existing work being performed on the NCATS Data Translator system, which integrates clinical and translational data at scale for mechanistic discovery, as well as other emergent systems such as the NIH Commons. We will apply our strengths and existing activities to make data FAIR-TLC: Findable, Accessible, Interoperable, and Reusable, as well as Traceable, Licensable, and Connected. We will assist contributors and users to develop and apply data standards, Common Data Elements (CDEs), and other commonly utilized data models such as FHIR and OHDSI. We will extend and supplement infrastructure, training, and collaborative environments to enable data to be shared openly, so that groups can collaborate on its harmonization based on specific needs or standards. The data ecosystem will provision CTSA-wide quality assurance reports and data quality assessment, as well as gold-standard datasets and synthetic clinical data sets. Fundamentally, we aim to develop an open-science ethos and unite CTSA community data sharing with broader global efforts.
 
 ## Alignment to program objectives
 TODO see [here](https://github.com/data2health/roadmap/blob/master/cd2h-foa.md)
@@ -64,18 +62,23 @@ Evaluation of data harmonization will ultimately rest with its impact on our com
 ## Education
 We anticipate substantial need to educated the CTSA community about elements of the well-known FHIR specification relevent to translational research.  In particular, the notion of managing FHIR as a canonical model, with migration paths to traditional common data models (e.g. OMOP/OHDSI, PCORNet, ACT, etc.)
 
+## Explore Our Work
+- [Federated Data Query Workshop May 20 & 21st, 2019: Subject Matter Expert Slide & Video Presentations](https://drive.google.com/drive/folders/1kgcoV8BW_9Zg7XLwObw9HXAO4aJLamQQ?usp=sharing) 
+- [Clinical Data Harmonization and Federated Query for Translational Research: Reflections and Report on a CD2H Workshop](https://docs.google.com/document/d/1fda3KLqPfDsAJ3Ah1MdqpxC4PSoCXBNy9ATWSiFG8CY/edit?usp=sharing) 
+- [CDM-FHIR Mappings](https://drive.google.com/drive/folders/1Mrt0xFfvcYhOfoAq_KnT7R5bYk7TZ6h0?usp=sharing) - most comprehensive mappings assembled to date 
+- [Data Harmonization Maturity Model](https://docs.google.com/document/d/1IKKbSxe19ZgayDnv5cqTUzDswNGWQvKZNUc2IgZvaL8/edit?usp=sharing)
+
 
 ## Get involved
 We encourage the community to get involved. 
 
 We are looking for community participation in the following areas:
-- [HL7 Engagement](https://docs.google.com/document/d/1Li6X6W2ck_XhYWr6RhpHtAaFI8rJmJAnjVQwvokhy14/edit?usp=sharing)
 - [CDM-FHIR Gap Analysis](https://drive.google.com/drive/folders/1TUwrDaH-2eRv3ofkY1tm2NbX7XttK3hx?usp=sharing)
-- [FHIR Server Options](https://docs.google.com/document/d/1_32CiANmo8W1TRG5IofqzJZmpgtu-s1jNenXu_efmtg/edit?usp=sharing)
 - [Sustainability and Change Management](https://drive.google.com/drive/folders/16vL1yckE9rliOoVB6yufTN7x_yOOAxUH?usp=sharing) 
+- [FHIR Server Options](https://docs.google.com/document/d/1_32CiANmo8W1TRG5IofqzJZmpgtu-s1jNenXu_efmtg/edit?usp=sharing)
+- [HL7 Engagement](https://docs.google.com/document/d/1Li6X6W2ck_XhYWr6RhpHtAaFI8rJmJAnjVQwvokhy14/edit?usp=sharing) 
 
 If you are interested in participating, please [onboard here](http://bit.ly/cd2h-onboarding-form)
-
 
 ## Working documents
 Documentation for the various data harmonization task teams can be found at [this Google drive folder](https://drive.google.com/drive/folders/14cMMsDExi7KsmkX49d8_zX7ojeCuW7_P?usp=sharing)
