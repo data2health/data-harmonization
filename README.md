@@ -75,6 +75,7 @@ We encourage the community to get involved.
 
 We are looking for community participation in the following areas:
 - [CDM-FHIR Gap Analysis](https://drive.google.com/drive/folders/1TUwrDaH-2eRv3ofkY1tm2NbX7XttK3hx?usp=sharing)
+- [CDM-FHIR Gap Analysis](GapAnalysis.md)
 - [Sustainability and Change Management](https://drive.google.com/drive/folders/16vL1yckE9rliOoVB6yufTN7x_yOOAxUH?usp=sharing) 
 - [FHIR Server Options](https://docs.google.com/document/d/1_32CiANmo8W1TRG5IofqzJZmpgtu-s1jNenXu_efmtg/edit?usp=sharing)
 - [HL7 Engagement](https://docs.google.com/document/d/1Li6X6W2ck_XhYWr6RhpHtAaFI8rJmJAnjVQwvokhy14/edit?usp=sharing) 
