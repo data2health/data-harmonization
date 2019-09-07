@@ -36,9 +36,7 @@ Chris Chute (@cgchute) | JHU
 
 ## Team members 
 
-No action required here, a list of team members will be imported and linked below.
-
-See https://github.com/data2health/project-repo-template/tree/master/team.md
+Team members are listed [here](https://github.com/data2health/data-harmonization/blob/master/team.md). 
 
 ## Repositories
 
