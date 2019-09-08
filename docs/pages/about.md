@@ -17,24 +17,24 @@ The Accelerating Clinical Trials (ACT) is an effort to achieve an effective clin
 
 Project scientific leadership: 
 
-Lead(s) (github handle) | Site
-----------|--------------|
-Chris Chute (@cgchute) | JHU 
+| Lead(s) (github handle) | Site |
+| ---------- | -------------- |
+| Chris Chute (@cgchute) | JHU |
 
 ## Contact person
 
-Point person (github handle) | Site | Program Director
-----------|--------------|---------------
-Tricia Francis (@tricfran) | JHU | Chris Chute (@cgchute)
+| Point person (github handle) | Site | Program Director |
+| ---------- | -------------- | --------------- |
+| Tricia Francis (@tricfran) | JHU | Chris Chute (@cgchute) |
 
 ## Core Team Members
-Johns Hopkins University | Univeristy of North Carolina | Oregon Health & Science University| Mayo Clinic
-----------|--------------|-------------------------|--------------
-Christopher Chute |	Emily Pfaff | Shahim Essaid | Guoqian Jiang
-Tricia Francis |	
-Harold Solbig	|
-Richard Zhu | 		
-Davera Gabriel |			
+| Johns Hopkins University | Univeristy of North Carolina | Oregon Health & Science University| Mayo Clinic |
+| ---------- | -------------- | ------------------------- | -------------- |
+| Christopher Chute |	Emily Pfaff | Shahim Essaid | Guoqian Jiang |
+| Tricia Francis | | | |	
+| Harold Solbig	 | | | |	
+| Richard Zhu  | | | |		
+| Davera Gabriel  | | | |			
 
 ## Full Team Members 
 
