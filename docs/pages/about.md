@@ -13,6 +13,8 @@ The Accelerating Clinical Trials (ACT) is an effort to achieve an effective clin
 
 ### Meet the Team
 
+## Core Task Team Members
+
 | Johns Hopkins| Univeristy of North Carolina | Oregon Health & Science University | Mayo Clinic
 | --- | --- | --- | --- |
 | Christopher Chute | Emily Pfaff | Shahim Essaid | Guoqian Jiang
@@ -20,6 +22,25 @@ The Accelerating Clinical Trials (ACT) is an effort to achieve an effective clin
 | Harold Solbig |  |      |        |
 | Richard Zhu |  |     |       |
 | Davera Gabriel |        |    |     |                                   
+
+## Contact person
+
+Point person (github handle) | Site | Program Director
+----------|--------------|---------------
+Tricia Francis (@tricfran) | JHU | Chris Chute (@cgchute)
+
+## Leads 
+
+Project scientific leadership: 
+
+Lead(s) (github handle) | Site
+----------|--------------|
+Chris Chute (@cgchute) | JHU 
+
+
+## Full Team Members 
+
+Team members are listed [here](https://github.com/data2health/data-harmonization/blob/master/team.md). 
 
 #### Back to [home](https://data2health.github.io/data-harmonization/)
 
