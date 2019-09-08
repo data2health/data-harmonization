@@ -33,7 +33,7 @@ We encourage the community to get involved.
 We are looking for community participation in the following areas:
 - [CDM-FHIR Gap Analysis Task Team](https://drive.google.com/drive/folders/1TUwrDaH-2eRv3ofkY1tm2NbX7XttK3hx?usp=sharing)
 - [Sustainability and Change Management Task Team](https://docs.google.com/document/d/1_32CiANmo8W1TRG5IofqzJZmpgtu-s1jNenXu_efmtg/edit?usp=sharing) 
-- [FHIR Server Options Task Team](pages/fhir-repo.md)
+- [FHIR Server Options Task Team](pages/fhir_option_task_team.md)
 - [HL7 Engagement and Translational Research Working Group](https://data2health.github.io/data-harmonization/pages/HL7_WG.html) 
 
 - [Clinical Data Harmonization and Federated Query for Translational Research: Reflections and Report on a CD2H Workshop - Manuscript](https://docs.google.com/document/d/1fda3KLqPfDsAJ3Ah1MdqpxC4PSoCXBNy9ATWSiFG8CY/edit?usp=sharing) 
