@@ -23,12 +23,12 @@ The CD2H Data Harmonization project, part of the CD2H Next Generation Data Repos
         * Enumerate, describe, and compare existing FHIR-based data repositories from IT vendors and open-source development groups, for application in translation science
         * Convene a task group to examine sustainability strategies for data management infrastructure, and change management across CTSA organizations
             * All of these task groups have been created:
-              * HL7 Engagement
               * CDM-FHIR Gap Analysis
+              * Sustainability and Change Management
               * FHIR Server Options
-              * Sustainability and Change Management 
+              * HL7 Engagement
 
-Contact Tricia Francis if you would like to participate in one of these task groups at pfranci4@jhu.edu.  For more infomration on these task groups see **Get involved** below.
+                For more information on these task groups see **Get involved** below.
 
 * [Clinical Data Harmonization and Federated Query for Translational Research: Reflections and Report on a CD2H Workshop](https://docs.google.com/document/d/1fda3KLqPfDsAJ3Ah1MdqpxC4PSoCXBNy9ATWSiFG8CY/edit?usp=sharing) 
     * This report, developed by a small team of representatives across the CTSA community, is ready for input across the wider CTSA community.  Your review and input is requested in this collaborative document.   
