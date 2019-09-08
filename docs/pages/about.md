@@ -79,54 +79,54 @@ Team members are listed below and [here](https://github.com/data2health/data-har
 
 ## Mailing list only
 
-Name | GitHub Handle | Site
---- | --- | ---
-Chris Amos | [github.com](http://github.com) | Baylor
-Nick Anderson | [flipcorp](http://github.com/flipcorp) | UCDavisHealth
-Michael Bales | [michaelbales1](http://github.com/michaelbales1) | Cornell
-Matt Baumann | [mattbaumann1](http://github.com/mattbaumann1) | Northwestern
-Tom Campion | [github.com](http://github.com) | Cornell
-Jack Chang | [ab2cw](https://github.com/ab2cw) | URMC
-Ammar Chaudhry | [informatics](https://github.com/achaudhry615/informatics) | COH
-Connor Cook | [cgcook](https://github.com/cgcook) | OHSU
-Allen Dearry | [dearry](https://github.com/dearry) | CancerGov
-David Dorr | [davedorr9](http://github.com/davedorr9) | OHSU
-Shahim Essaid | [ShahimEssaid](http://github.com/ShahimEssaid) | OHSU
-Joseph Finkelstein | [finkeljOMOP](http://github.com/finkeljOMOP) | Icahn
-John Franz | [github.com](http://github.com) | Icahn
-Brian Furner | [bfurner](https://github.com/bfurner) | UChicago
-JP Gourdine | [jpgourdine](https://github.com/jpgourdine) | OHSU
-Randy Grout | [randallgrout](https://github.com/randallgrout) | Indiana
-Kate Haas LaVigne | [KateHaasLaVigne](https://github.com/KateHaasLaVigne) | UChicago
-Melissa Haendel | [mellybelly](http://github.com/mellybelly) | OHSU
-Kristi Holmes | [kristiholmes](http://github.com/kristiholmes) | Northwestern
-Diane Keogh | [gibhub.com](http://gibhub.com) | Harvard
-Ashok Krishnamurthy | [ashokohio](http://github.com/ashokohio) | UNC
-Albert Lai | [laialbert](https://github.com/laialbert) | WashU
-Yupu Liang | [github.com](http://github.com) | Rockefeller
-Lisa O'Keefe | [LisaOKeefe1](https://github.com/LisaOKeefe1) | Northwestern
-Laura Paglione | [lpaglione](https://github.com/lpaglione) | Spherical
-Nitin Parikh | [github.com](http://github.com) | UCDavisHealth
-Steve Patterson | [github.com.](http://github.com.) | iTHRIV
-Philip Payne | [prpayne5](http://github.com/prpayne5) | WashU
-Rose Relevo | [RoseRelevo](https://github.com/RoseRelevo) | OHSU
-Peter Robinson | [pnrobinson](http://github.com/pnrobinson) | JAX
-Eugene Sadhu | [eugsadhu](https://github.com/eugsadhu) | UIC
-Thomas Schaffter | [tschaffter](https://github.com/tschaffter) | Sage
-Lisa Schick | [lmschick](http://github.com/lmschick) | NCATS
-Rob Schuff | [schuffr](https://github.com/schuffr) | OHSU
-Pamela Shaw | [bioscibrarian](https://github.com/bioscibrarian) | Northwestern
-Eric Sid | [ericsid](https://github.com/ericsid) | NCATS
-Tony Solomonides | [github.com](http://github.com) | UChicago
-Julian Solway | [jsolway](http://github.com/jsolway) | UChicago
-Juan Suarez | [github.com](http://github.com) | NYU
-Umit Topaloglu | [umtopaloglu](http://GitHub.com/umtopaloglu) | Wakehealth
-Ali Torkamani | [atorkama](https://github.com/atorkama) | Scripps
-Alfred Vitale | [github.com](http://github.com) | URMC
-Nicole Weiskopf | [weiskopf](http://github.com/weiskopf) | OHSU
-Tamara Winden | [tjwinden](http://github.com/tjwinden) | KansasU
-Elizabeth Zak | [ezak101](https://github.com/ezak101) | Iowa
-Xinzhi Zhang | [NCATS2019](https://github.com/NCATS2019) | NCATS
+| Name | GitHub Handle | Site |
+| --- | --- | -------------- |
+| Chris Amos | [github.com](http://github.com) | Baylor |
+| Nick Anderson | [flipcorp](http://github.com/flipcorp) | UCDavisHealth |
+| Michael Bales | [michaelbales1](http://github.com/michaelbales1) | Cornell |
+| Matt Baumann | [mattbaumann1](http://github.com/mattbaumann1) | Northwestern |
+| Tom Campion | [github.com](http://github.com) | Cornell |
+| Jack Chang | [ab2cw](https://github.com/ab2cw) | URMC |
+| Ammar Chaudhry | [informatics](https://github.com/achaudhry615/informatics) | COH |
+| Connor Cook | [cgcook](https://github.com/cgcook) | OHSU |
+| Allen Dearry | [dearry](https://github.com/dearry) | CancerGov |
+| David Dorr | [davedorr9](http://github.com/davedorr9) | OHSU |
+| Shahim Essaid | [ShahimEssaid](http://github.com/ShahimEssaid) | OHSU |
+| Joseph Finkelstein | [finkeljOMOP](http://github.com/finkeljOMOP) | Icahn |
+| John Franz | [github.com](http://github.com) | Icahn |
+| Brian Furner | [bfurner](https://github.com/bfurner) | UChicago |
+| JP Gourdine | [jpgourdine](https://github.com/jpgourdine) | OHSU |
+| Randy Grout | [randallgrout](https://github.com/randallgrout) | Indiana |
+| Kate Haas LaVigne | [KateHaasLaVigne](https://github.com/KateHaasLaVigne) | UChicago |
+| Melissa Haendel | [mellybelly](http://github.com/mellybelly) | OHSU |
+| Kristi Holmes | [kristiholmes](http://github.com/kristiholmes) | Northwestern |
+| Diane Keogh | [gibhub.com](http://gibhub.com) | Harvard |
+| Ashok Krishnamurthy | [ashokohio](http://github.com/ashokohio) | UNC |
+| Albert Lai | [laialbert](https://github.com/laialbert) | WashU |
+| Yupu Liang | [github.com](http://github.com) | Rockefeller |
+| Lisa O'Keefe | [LisaOKeefe1](https://github.com/LisaOKeefe1) | Northwestern |
+| Laura Paglione | [lpaglione](https://github.com/lpaglione) | Spherical |
+| Nitin Parikh | [github.com](http://github.com) | UCDavisHealth |
+| Steve Patterson | [github.com.](http://github.com.) | iTHRIV |
+| Philip Payne | [prpayne5](http://github.com/prpayne5) | WashU |
+| Rose Relevo | [RoseRelevo](https://github.com/RoseRelevo) | OHSU |
+| Peter Robinson | [pnrobinson](http://github.com/pnrobinson) | JAX |
+| Eugene Sadhu | [eugsadhu](https://github.com/eugsadhu) | UIC |
+| Thomas Schaffter | [tschaffter](https://github.com/tschaffter) | Sage |
+| Lisa Schick | [lmschick](http://github.com/lmschick) | NCATS |
+| Rob Schuff | [schuffr](https://github.com/schuffr) | OHSU |
+| Pamela Shaw | [bioscibrarian](https://github.com/bioscibrarian) | Northwestern |
+| Eric Sid | [ericsid](https://github.com/ericsid) | NCATS |
+| Tony Solomonides | [github.com](http://github.com) | UChicago |
+| Julian Solway | [jsolway](http://github.com/jsolway) | UChicago |
+| Juan Suarez | [github.com](http://github.com) | NYU |
+| Umit Topaloglu | [umtopaloglu](http://GitHub.com/umtopaloglu) | Wakehealth |
+| Ali Torkamani | [atorkama](https://github.com/atorkama) | Scripps |
+| Alfred Vitale | [github.com](http://github.com) | URMC |
+| Nicole Weiskopf | [weiskopf](http://github.com/weiskopf) | OHSU |
+| Tamara Winden | [tjwinden](http://github.com/tjwinden) | KansasU |
+| Elizabeth Zak | [ezak101](https://github.com/ezak101) | Iowa |
+| Xinzhi Zhang | [NCATS2019](https://github.com/NCATS2019) | NCATS |
 
 
 #### Back to [home](https://data2health.github.io/data-harmonization/)
