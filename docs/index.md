@@ -21,7 +21,7 @@ Mapping to, from, and among translational research common data models can be gre
 * [PCORNet ValueSet Mappings Table](https://drive.google.com/file/d/16YXiVahqUsGSXkzie7764A0IRvoVGs7k/view?usp=sharing)
 * [ACT(i2b2) ValueSet Mappings Table](https://drive.google.com/file/d/1wsxj-OVpIfRRNwZau2A4uHV2MibZGVX9/view?usp=sharing)
 * [OHDSI FHIR WG Mappings](https://docs.google.com/document/d/1ZLMgQqrALeJB8e2qeCamFv7XpmLF3Ev3XvVAoeA0mzI/edit?usp=sharing)
-* To Create CAMP FHIR views from PCORnet (with link)
+* [To Create CAMP FHIR views from PCORnet](https://drive.google.com/file/d/1b6LgU5b0HSWJx8L7CD474Qe9kAygnfyp/view?usp=sharing)
 * To Create CAMP FHIR views from ACT (with link)
 
 ### HL7 FHIR Standard Engagement
