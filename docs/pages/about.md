@@ -17,7 +17,7 @@ The CTS personas reflect the spectrum of translation and the diversity of roles 
 | Johns Hopkins| Univeristy of North Carolina | Oregon Health & Science University | Mayo Clinic
 | --- | --- | --- | --- |
 | Christopher Chute | Emily Pfaff | Shahim Essaid | Guoquian Jiang
-| Tricia Fancis |  |      |        |
+| Tricia Francis |  |      |        |
 | Harold Solbig |  |      |        |
 | Richard Zhu |  |     |       |
 | Davera Gabriel |        |    |     |                                   
