@@ -48,3 +48,14 @@ In order to achieve a sustainable data network infrastructure, promote interoper
     * Native support by EHRs, minimal ETL
     * FHIR “Resources” as de facto logical model
     * Physical model irrelevant behind conformant server
+
+### Does Anybody Embrace This?
+* Major IT organizations offer FHIR servers
+* FHIR “objects” being considered by HL7
+    * Persistent objects in HBase NOSQL systems
+* More sophisticated FHIR query specifications
+    * FHIR Bulk
+    * FHIR Bundle
+    * FHIR SQL
+    * CQL to FHIR
+
