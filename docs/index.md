@@ -24,7 +24,7 @@ For details about this workshop, see this link:  [Workshop](https://data2health.
 
 ### Data Harmonization Maturity Model
 
-* The Sustainability and Change Management Task Team has developed a data harmonization maturity model and it is ready for wider CTSA Community input.  Please review and add your feedback to [Data Harmonization Maturity Model](https://docs.google.com/document/d/1IKKbSxe19ZgayDnv5cqTUzDswNGWQvKZNUc2IgZvaL8/edit?usp=sharing)
+* The Sustainability and Change Management Task Team has developed a data harmonization maturity model and it is ready for wider CTSA Community input.  Please review and add your feedback to [Data Harmonization Maturity Model](https://docs.google.com/document/d/1IKKbSxe19ZgayDnv5cqTUzDswNGWQvKZNUc2IgZvaL8/edit?usp=sharing).
 
 
 ## Get involved
