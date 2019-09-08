@@ -32,7 +32,7 @@ The CD2H Data Harmonization project, part of the CD2H Next Generation Data Repos
 * [**CDM-FHIR Mappings**](https://drive.google.com/drive/folders/1Mrt0xFfvcYhOfoAq_KnT7R5bYk7TZ6h0?usp=sharing) (will be no link)
     * The CDM-FHIR Gap Analaysis Task Team has complied the most comprehensive mappings assembled to date. If you know of any other mappings that you do not see here, please add.    
     * [PCORNet ValueSet Mappings Table](https://drive.google.com/file/d/16YXiVahqUsGSXkzie7764A0IRvoVGs7k/view?usp=sharing)
-    * ACT(i2b2) ValueSet Mappings Table (with link)
+    * [ACT(i2b2) ValueSet Mappings Table](https://drive.google.com/file/d/1wsxj-OVpIfRRNwZau2A4uHV2MibZGVX9/view?usp=sharing)
     * OHDSI FHIR WG Mappings (with link)
     * To Create CAMP FHIR views from PCORnet (with link)
     * To Create CAMP FHIR views from ACT (with link)
