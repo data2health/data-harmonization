@@ -32,6 +32,9 @@ The CD2H team is engaging the HL7 and FHIR communities around interoperability s
 
 * The Sustainability and Change Management Task Team has developed a data harmonization maturity model and it is ready for wider CTSA Community input.  Please review and add your feedback to [Data Harmonization Maturity Model](https://docs.google.com/document/d/1IKKbSxe19ZgayDnv5cqTUzDswNGWQvKZNUc2IgZvaL8/edit?usp=sharing).
 
+### FHIR for Translational Research Blog
+
+Prompted by the recent NIH statement endorsing the use of FHIR for research clinical data, CD2H authored this blog: [Forging Translational Research Networks with FHIR] (https://ctsa.ncats.nih.gov/cd2h/blog/forging-translational-research-networks-with-fhir/). 
 
 ## Get involved
 We encourage the community to get involved. 
