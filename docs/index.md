@@ -10,7 +10,7 @@ The CD2H Data Harmonization project, part of the CD2H Next Generation Data Repos
 ## Explore Our Work
 ### Federated Data Query Workshop May 20 & 21st, 2019
 The Data Harmonization Working Group in CD2H hosted a two-day (May 20-21) workshop in Baltimore on data harmonization and federated query. 
-For details about this workshop, see this link:  [Workshop](https://data2health.github.io/data-harmonization/docs/pages/BaltimoreWorkshop.html)
+For details about this workshop, see this link:  [Workshop](https://data2health.github.io/data-harmonization/pages/BaltimoreWorkshop.html)
     
 
 * [**CDM-FHIR Mappings**](pages/CDM-FHIR.md)
