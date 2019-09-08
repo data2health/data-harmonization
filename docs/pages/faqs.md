@@ -4,10 +4,7 @@
 ### Where can I find the project's documentation?
 All project documentation is on the [Data Harmonization GitHub site](https://github.com/data2health/data-harmonization)
 
-### How can I participate in evaluation of Personas?
-Fill out the Personas Evaluation [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc0PiMqi12YVz9SvdHNqUocwgz8KKHOKdj3NQ80xJmMNyR_oA/viewform?usp=sf_link)
-
-### How can I contribute to the Personas project?
+### How can I contribute to the Data Harmonization project?
 Submit an [Issue](https://github.com/data2health/data-harmonization/issues) on our GitHub site
 
 ### How can I contribute a common data model mapping with FHIR to the Data Harmonization project?
