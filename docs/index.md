@@ -30,8 +30,6 @@ The CD2H Data Harmonization project, part of the CD2H Next Generation Data Repos
 
                 For more information on these task groups see **Get involved** below.
 
-* [Clinical Data Harmonization and Federated Query for Translational Research: Reflections and Report on a CD2H Workshop](https://docs.google.com/document/d/1fda3KLqPfDsAJ3Ah1MdqpxC4PSoCXBNy9ATWSiFG8CY/edit?usp=sharing) 
-    * This report, developed by a small team of representatives across the CTSA community, is ready for input across the wider CTSA community.  Your review and input is requested in this collaborative document.   
 * [CDM-FHIR Mappings](https://drive.google.com/drive/folders/1Mrt0xFfvcYhOfoAq_KnT7R5bYk7TZ6h0?usp=sharing)
     * The CDM-FHIR Gap Analaysis Task Team has complied the most comprehensive mappings assembled to date. If you know of any other mappings that you do not see here, please add.    
 * [Data Harmonization Maturity Model](https://docs.google.com/document/d/1IKKbSxe19ZgayDnv5cqTUzDswNGWQvKZNUc2IgZvaL8/edit?usp=sharing)
@@ -42,11 +40,14 @@ The CD2H Data Harmonization project, part of the CD2H Next Generation Data Repos
 We encourage the community to get involved. 
 
 We are looking for community participation in the following areas:
-- [CDM-FHIR Gap Analysis](https://drive.google.com/drive/folders/1TUwrDaH-2eRv3ofkY1tm2NbX7XttK3hx?usp=sharing)
-- [Sustainability and Change Management](https://drive.google.com/drive/folders/16vL1yckE9rliOoVB6yufTN7x_yOOAxUH?usp=sharing) 
-- [FHIR Server Options](https://docs.google.com/document/d/1_32CiANmo8W1TRG5IofqzJZmpgtu-s1jNenXu_efmtg/edit?usp=sharing)
-- [HL7 Engagement](https://docs.google.com/document/d/1Li6X6W2ck_XhYWr6RhpHtAaFI8rJmJAnjVQwvokhy14/edit?usp=sharing) 
+- [CDM-FHIR Gap Analysis Task Team](https://drive.google.com/drive/folders/1TUwrDaH-2eRv3ofkY1tm2NbX7XttK3hx?usp=sharing)
+- [Sustainability and Change Management Task Team](https://drive.google.com/drive/folders/16vL1yckE9rliOoVB6yufTN7x_yOOAxUH?usp=sharing) 
+- [FHIR Server Options Task Team](https://docs.google.com/document/d/1_32CiANmo8W1TRG5IofqzJZmpgtu-s1jNenXu_efmtg/edit?usp=sharing)
+- [HL7 Engagement Task Team](https://docs.google.com/document/d/1Li6X6W2ck_XhYWr6RhpHtAaFI8rJmJAnjVQwvokhy14/edit?usp=sharing) 
 
+- [Clinical Data Harmonization and Federated Query for Translational Research: Reflections and Report on a CD2H Workshop](https://docs.google.com/document/d/1fda3KLqPfDsAJ3Ah1MdqpxC4PSoCXBNy9ATWSiFG8CY/edit?usp=sharing) 
+    * This report, developed by a small team of representatives across the CTSA community, is ready for input across the wider CTSA community.  Your review and input is requested in this collaborative document.   
+    
 If you are interested in participating, please [onboard here](http://bit.ly/cd2h-onboarding-form) or contact Tricia Francis at pfranci4@jhu.edu with any questions.
 
 ## Working documents
