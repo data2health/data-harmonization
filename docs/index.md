@@ -34,7 +34,7 @@ The CD2H team is engaging the HL7 and FHIR communities around interoperability s
 
 ### FHIR for Translational Research Blog
 
-Prompted by the recent NIH statement endorsing the use of FHIR for research clinical data, CD2H authored this blog: [Forging Translational Research Networks with FHIR] (https://ctsa.ncats.nih.gov/cd2h/blog/forging-translational-research-networks-with-fhir/). 
+Prompted by the recent NIH statement endorsing the use of FHIR for research clinical data, CD2H authored this blog: [Forging Translational Research Networks with FHIR](https://ctsa.ncats.nih.gov/cd2h/blog/forging-translational-research-networks-with-fhir/). 
 
 ## Get involved
 We encourage the community to get involved. 
