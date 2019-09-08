@@ -44,7 +44,7 @@ Team members are listed below and [here](https://github.com/data2health/data-har
 ## Contributor(s)
 
 | Name | GitHub Handle | Site |
-| --- | --- | --- |
+| --- | --- | ----------------- |
 | Wendy Blumenthal | [github.com](http://github.com) | CDC/NPCR |
 | Matthew Brush | [mbrush](http://github.com/mbrush) | OHSU |
 | Catherine  Craven | [github.com](http://github.com) | Icahn |
@@ -68,10 +68,10 @@ Team members are listed below and [here](https://github.com/data2health/data-har
 | Andrey Rzhetsky | [arzhetsky](http://github.com/arzhetsky) | UChicago |
 | Sai Manjula Simhadri | [saimanjula](https://github.com/saimanjula) | NCATS |
 | Harold Solbrig | [hsolbrig](http://github.com/hsolbrig) | JHU |
-| Arunkumar Srinivasan | [github.com](http://github.com) | CDC |
+| Arunkumar Srinivasan | [github.com](http://github.com) | CDC/DDID/NCHHSTP/OD |
 | Bradley Taylor | [btaylormcw](https://github.com/btaylormcw) | MCW |
 | Philip Trevvett | [ptrevvett](https://github.com/ptrevvett) | Harvard |
-| Abby Viall | [aviall](https://github.com/aviall) | CDC |
+| Abby Viall | [aviall](https://github.com/aviall) | CDC/DDID/NCHHSTP/OD |
 | Sam Volchenboum | [volcs0](https://github.com/volcs0) | UChicago |
 | Adam Wilcox | [abwilcox](http://github.com/abwilcox) | UW |
 | DuWayne Willett | [duwaynewillett](https://github.com/duwaynewillett) | UTSouthwestern |
