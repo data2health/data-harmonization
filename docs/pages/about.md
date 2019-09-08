@@ -42,39 +42,40 @@ Project scientific leadership:
 Team members are listed below and [here](https://github.com/data2health/data-harmonization/blob/master/team.md).
 
 ## Contributor(s)
-Name | GitHub Handle | Site
---- | --- | ---
-Wendy Blumenthal | [github.com](http://github.com) | CDC/NPCR
-Matthew Brush | [mbrush](http://github.com/mbrush) | OHSU
-Catherine  Craven | [github.com](http://github.com) | Icahn
-Peter Elkin | [github.com](http://github.com) | UBuffalo
-Tricia Francis | [tricfran](http://github.com/tricfran) | JHU
-Davera Gabriel | [github.com](http://github.com) | JHU
-Ken Gersing | [KenGersing](https://github.com/KenGersing) | NCATS
-Gideon Gordon | [github.com](http://github.com) | CDER
-Aaron Harris | [github.com](http://github.com) | CDC/DVH
-Raju Hemadri | [rajuhemadri](https://github.com/rajuhemadri) | NCATS
-Guoqian Jiang | [gqjiang](https://github.com/gqjiang) | Mayo
-Boyd Knosp | [boydknosp](http://github.com/boydknosp) | Iowa
-Bernie LaSalle | [github.com](http://github.com) | UUtahHealth
-Diego Mazzotti | [mazzottidr](https://github.com/mazzottidr) | UPenn
-Julie McMurry | [jmcmurry](http://github.com/jmcmurry) | OSU
-Michele Morris | [github.com](http://github.com) | UPitt
-Sandeep Naredla | [github.com](http://github.com) | NCATS
-Emily Pfaff | [empfff](http://github.com/empfff) | UNC
-Srini Rao | [srinirao55](http://github.com/srinirao55) | NCATS
-Mitra Rocca | [github.com](http://github.com) | CDER
-Andrey Rzhetsky | [arzhetsky](http://github.com/arzhetsky) | UChicago
-Sai Manjula Simhadri | [saimanjula](https://github.com/saimanjula) | NCATS
-Harold Solbrig | [hsolbrig](http://github.com/hsolbrig) | JHU
-Arunkumar Srinivasan | [github.com](http://github.com) | CDC/DDID/NCHHSTP/OD
-Bradley Taylor | [btaylormcw](https://github.com/btaylormcw) | MCW
-Philip Trevvett | [ptrevvett](https://github.com/ptrevvett) | Harvard
-Abby Viall | [aviall](https://github.com/aviall) | CDC/DDID/NCHHSTP/OD
-Sam Volchenboum | [volcs0](https://github.com/volcs0) | UChicago
-Adam Wilcox | [abwilcox](http://github.com/abwilcox) | UW
-DuWayne Willett | [duwaynewillett](https://github.com/duwaynewillett) | UTSouthwestern
-Richard Zhu | [richard1933](http://github.com) | JHU
+
+| Name | GitHub Handle | Site |
+| --- | --- | --- |
+| Wendy Blumenthal | [github.com](http://github.com) | CDC/NPCR |
+| Matthew Brush | [mbrush](http://github.com/mbrush) | OHSU |
+| Catherine  Craven | [github.com](http://github.com) | Icahn |
+| Peter Elkin | [github.com](http://github.com) | UBuffalo |
+| Tricia Francis | [tricfran](http://github.com/tricfran) | JHU |
+| Davera Gabriel | [github.com](http://github.com) | JHU |
+| Ken Gersing | [KenGersing](https://github.com/KenGersing) | NCATS |
+| Gideon Gordon | [github.com](http://github.com) | CDER |
+| Aaron Harris | [github.com](http://github.com) | CDC/DVH |
+| Raju Hemadri | [rajuhemadri](https://github.com/rajuhemadri) | NCATS |
+| Guoqian Jiang | [gqjiang](https://github.com/gqjiang) | Mayo |
+| Boyd Knosp | [boydknosp](http://github.com/boydknosp) | Iowa |
+| Bernie LaSalle | [github.com](http://github.com) | UUtahHealth |
+| Diego Mazzotti | [mazzottidr](https://github.com/mazzottidr) | UPenn |
+| Julie McMurry | [jmcmurry](http://github.com/jmcmurry) | OSU |
+| Michele Morris | [github.com](http://github.com) | UPitt |
+| Sandeep Naredla | [github.com](http://github.com) | NCATS |
+| Emily Pfaff | [empfff](http://github.com/empfff) | UNC |
+| Srini Rao | [srinirao55](http://github.com/srinirao55) | NCATS |
+| Mitra Rocca | [github.com](http://github.com) | CDER |
+| Andrey Rzhetsky | [arzhetsky](http://github.com/arzhetsky) | UChicago |
+| Sai Manjula Simhadri | [saimanjula](https://github.com/saimanjula) | NCATS |
+| Harold Solbrig | [hsolbrig](http://github.com/hsolbrig) | JHU |
+| Arunkumar Srinivasan | [github.com](http://github.com) | CDC/DDID/NCHHSTP/OD |
+| Bradley Taylor | [btaylormcw](https://github.com/btaylormcw) | MCW |
+| Philip Trevvett | [ptrevvett](https://github.com/ptrevvett) | Harvard |
+| Abby Viall | [aviall](https://github.com/aviall) | CDC/DDID/NCHHSTP/OD |
+| Sam Volchenboum | [volcs0](https://github.com/volcs0) | UChicago |
+| Adam Wilcox | [abwilcox](http://github.com/abwilcox) | UW |
+| DuWayne Willett | [duwaynewillett](https://github.com/duwaynewillett) | UTSouthwestern |
+| Richard Zhu | [richard1933](http://github.com) | JHU |
 
 ## Mailing list only
 Name | GitHub Handle | Site
