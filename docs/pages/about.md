@@ -30,11 +30,11 @@ Tricia Francis (@tricfran) | JHU | Chris Chute (@cgchute)
 ## Core Team Members
 Johns Hopkins University | Univeristy of North Carolina | Oregon Health & Science University| Mayo Clinic
 -- | -- | -- | --
-Christopher Chute |	Emily Pfaff| Shahim Essaid | Guoqian Jiang
-Tricia Francis | 	
-Harold Solbig	| 		
+Christopher Chute |	Emily Pfaff | Shahim Essaid | Guoqian Jiang
+Tricia Francis |	
+Harold Solbig	|
 Richard Zhu | 		
-Davera Gabriel | 			
+Davera Gabriel |			
 
 ## Full Team Members 
 
