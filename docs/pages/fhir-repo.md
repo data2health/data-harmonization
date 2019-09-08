@@ -12,6 +12,8 @@ Interested in participating in this subgroup:
 | Diane Koher |
 | Alex Edwards (Emory) |
 | Allison Heath (CHOP) |
+| Chris Chute (JHU) |
+| Richard Zhu (JHU) |
 
 ## FHIR Repository Options
 
