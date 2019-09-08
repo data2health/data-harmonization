@@ -1,4 +1,5 @@
-CTS Personas, a project of the National Center for Data to Health (Grant U24TR002306), is an effort to create Persona profiles representing roles across the ecosystem of translational research: Basic Research → Pre-Clinical Research → Clinical Research → Clinical Implementation → Public Health. These profiles are intended for use for the CTSA community and beyond, to assist those developing software projects, educational and communication materials, and more.
+The CD2H Data Harmonization project, part of the CD2H Next Generation Data Repository Core, identifies and curates resources and tools that enable a common framework for rendering and querying clinical data. Central to the effort is designating the HL7 FHIR specification as a canonical hub to simplify integration from clinical electronic health records and transform into a broad spectrum of translational research data models. We do this by engaging expertise across the CTSA community through workshops, electronic workspaces, and community web events.
+
 
 * [About](pages/about.md)
 * [The Persona Profiles](pages/profiles/index.md)
