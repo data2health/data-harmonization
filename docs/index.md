@@ -22,8 +22,9 @@ For details about this workshop, see this link:  [Workshop](https://data2health.
 * To Create CAMP FHIR views from PCORnet (with link)
 * To Create CAMP FHIR views from ACT (with link)
 
-### [Data Harmonization Maturity Model](https://docs.google.com/document/d/1IKKbSxe19ZgayDnv5cqTUzDswNGWQvKZNUc2IgZvaL8/edit?usp=sharing)
-* The Sustainability and Change Management Task Team has developed a data harmonization maturity model and it is ready for wider CTSA Community input.  Are there other factors that should be considered?  Please add your feedback.  
+### Data Harmonization Maturity Model
+
+* The Sustainability and Change Management Task Team has developed a data harmonization maturity model and it is ready for wider CTSA Community input.  Please review and add your feedback to [Data Harmonization Maturity Model](https://docs.google.com/document/d/1IKKbSxe19ZgayDnv5cqTUzDswNGWQvKZNUc2IgZvaL8/edit?usp=sharing)
 
 
 ## Get involved
