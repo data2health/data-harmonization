@@ -1,5 +1,6 @@
 ## Subgroup: FHIR Server Options
 Interested in participating in this subgroup
+
 |Thomas Oberst|
 |Leslie Lenert|
 |Eugene Sadhu (UIC)|
