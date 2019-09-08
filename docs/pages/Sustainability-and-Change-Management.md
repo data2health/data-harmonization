@@ -22,3 +22,4 @@ Content for various stakeholders describing data harmonization and associated ke
     * National activities and initiatives regarding clinical data and interoperability standards for translational research
 * Educational events (e.g. webinars) and materials to deliver content gathered by the SCM
 
+If you are interested in contributing as a task team member, or contributing your input in one of our collaborative spaces, please [onboard here](http://bit.ly/cd2h-onboarding-form) or contact Tricia Francis at pfranci4@jhu.edu with any questions.
