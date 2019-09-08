@@ -150,3 +150,5 @@ Released on August 14, 2019
     * work is beginning on an EMPI API
     * Bulk data support - Import/Export
     * Terminology service performance enhancements (ValueSet expansion/validation enhancements)
+
+#### Back to [home](https://data2health.github.io/data-harmonization/)
