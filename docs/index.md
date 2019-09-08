@@ -29,7 +29,7 @@ The CD2H Data Harmonization project, part of the CD2H Next Generation Data Repos
               * HL7 Engagement
             * For more information on these task groups see **Get involved** below.
 
-* [CDM-FHIR Mappings](https://drive.google.com/drive/folders/1Mrt0xFfvcYhOfoAq_KnT7R5bYk7TZ6h0?usp=sharing)
+* [**CDM-FHIR Mappings**](https://drive.google.com/drive/folders/1Mrt0xFfvcYhOfoAq_KnT7R5bYk7TZ6h0?usp=sharing)
     * The CDM-FHIR Gap Analaysis Task Team has complied the most comprehensive mappings assembled to date. If you know of any other mappings that you do not see here, please add.    
     * [PCORNet ValueSet Mappings Table](https://drive.google.com/file/d/16YXiVahqUsGSXkzie7764A0IRvoVGs7k/view?usp=sharing)
 * [Data Harmonization Maturity Model](https://docs.google.com/document/d/1IKKbSxe19ZgayDnv5cqTUzDswNGWQvKZNUc2IgZvaL8/edit?usp=sharing)
