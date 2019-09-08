@@ -1,6 +1,10 @@
 ## FHIR Repository Options
 
-[HL7 FHIR Servers for testing](https://wiki.hl7.org/index.php?title=Publicly_Available_FHIR_Servers_for_testing)
+### HL7 FHIR Servers for testing
+
+This page [lists FHIR servers](https://wiki.hl7.org/index.php?title=Publicly_Available_FHIR_Servers_for_testing) that are publicly available for testing. These are public services provided by volunteers and HL7 makes no representations concerning their safety or reliability. 
+
+In order to avoid spam etc, the servers are generally password protected. A contact is provided to get a password.
 
 |FHIR Server | Bunsen | MS FHIR Opensource/<br>Managed | Google FHIR | Vonk FHIR (licensed) | HAPI FHIR | Smile CDR |
 |------------|--------|----------------------------|-------------|----------------------|-----------|-----------|
