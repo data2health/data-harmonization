@@ -14,14 +14,14 @@ The CTS personas reflect the spectrum of translation and the diversity of roles 
 
 ### Meet the Team
 
-| Northwestern University | Children's Hospital of Philadelphia | Oregon Health & Science University | Washington University |
+| Johns Hopkins| Univeristy of North Carolina | Oregon Health & Science University | Mayo Clinic
 | --- | --- | --- | --- |
-| Sara Gonzales | Bailey Farrow | Robin Champieux | Po-Yin Yen |
-| Karen Gutzman | Allison Heath |      |        |
-| Kristi Holmes | Meen Chul Kim |      |        |
-| Lisa O'Keefe | Deanne Taylor |     |       |
-| Annie Wescott |        |    |     |                                   
+| Christopher Chute | Emily Pfaff | Shahim Essaid | Guoquian Jiang
+| Tricia Fancis |  |      |        |
+| Harold Solbig |  |      |        |
+| Richard Zhu |  |     |       |
+| Davera Gabriel |        |    |     |                                   
 
-#### Back to [home](https://data2health.github.io/CTS-Personas/)
+#### Back to [home](https://data2health.github.io/data-harmonization/)
 
 ##### A project of the National Center for Data to Health (Grant U24TR002306)
