@@ -16,7 +16,7 @@ The Accelerating Clinical Trials (ACT) is an effort to achieve an effective clin
 | Johns Hopkins| Univeristy of North Carolina | Oregon Health & Science University | Mayo Clinic
 | --- | --- | --- | --- |
 | Christopher Chute | Emily Pfaff | Shahim Essaid | Guoqian Jiang
-| Tricia Fancis |  |      |        |
+| Tricia Francis |  |      |        |
 | Harold Solbig |  |      |        |
 | Richard Zhu |  |     |       |
 | Davera Gabriel |        |    |     |                                   
