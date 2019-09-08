@@ -64,7 +64,7 @@ Abby Viall | [aviall](https://github.com/aviall) | CDC/DDID/NCHHSTP/OD
 Sam Volchenboum | [volcs0](https://github.com/volcs0) | UChicago
 Adam Wilcox | [abwilcox](http://github.com/abwilcox) | UW
 DuWayne Willett | [duwaynewillett](https://github.com/duwaynewillett) | UTSouthwestern
-Richard Zhu | [github.com](http://github.com) | JHU
+Richard Zhu | [richard1933](http://github.com) | JHU
 
 ## Mailing list only
 Name | GitHub Handle | Site
