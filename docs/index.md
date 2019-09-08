@@ -20,7 +20,7 @@ Mapping to, from, and among translational research common data models can be gre
 * The CDM-FHIR Gap Analaysis Task Team has complied the most [comprehensive mappings](https://drive.google.com/drive/folders/1Mrt0xFfvcYhOfoAq_KnT7R5bYk7TZ6h0?usp=sharing) assembled to date. If you know of any other mappings that you do not see here, please add.    
 * [PCORNet ValueSet Mappings Table](https://drive.google.com/file/d/16YXiVahqUsGSXkzie7764A0IRvoVGs7k/view?usp=sharing)
 * [ACT(i2b2) ValueSet Mappings Table](https://drive.google.com/file/d/1wsxj-OVpIfRRNwZau2A4uHV2MibZGVX9/view?usp=sharing)
-* OHDSI FHIR WG Mappings (with link)
+* [OHDSI FHIR WG Mappings](https://docs.google.com/document/d/1ZLMgQqrALeJB8e2qeCamFv7XpmLF3Ev3XvVAoeA0mzI/edit?usp=sharing)
 * To Create CAMP FHIR views from PCORnet (with link)
 * To Create CAMP FHIR views from ACT (with link)
 
