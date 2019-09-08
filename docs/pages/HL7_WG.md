@@ -11,20 +11,22 @@ HL7 approached the project leaders for Data Harmonization about strengthening HL
 * Jiajie Zhang, NCATS
 * Qian Zhu, NCATS
 * Elaine Colliere, NCATS
-* Christine Colvis, NCATS
 * Clem McDonald, NLM
 * John Loonsk, CDC
 * Dan Ford, Vice Dean for Clinical Investigation, CTSA PI, Johns Hopkins
 * Steve Davis, Chair, Dept Medicine, CTSA PI, University of Maryland
-* Antony Rosen, Vice Dean for Research, Johns Hopkins
+* Stephanie Reel, CIO, Johns Hopkins
+* Peter Greene, CMIO, Johns Hopkins
 * Dwight Raum, CTO, Johns Hopkins
+* Alan Coltri, Cheif Data Architect, Johns Hopkins
 * Christopher Chute, CRIO, Johns Hopkins and CD2H coPI (meeting organizer)
 * Diana Gumas, Director of the Core for Clinical Research Data Acquisition, Johns Hopkins
 * Ross Martin, Research Lead, Chesapeake Regional Information System for our Patients (CRISP - MD HIE)
 * Jeff Smith, Vice President for Policy, AMIA
 * Ed Hammond, Duke University
-* Brian Alber, Evididence Based Medicine FHIR resource lead, EBSCO.com
+* Brian Alper, Evididence Based Medicine FHIR resource lead, EBSCO.com
 * Geoffrey Osier, JHU Applied Physics Lab
+* Jordan Matelsky, JHU Applied Physics Lab
 * Stephanie Howson, JHU Applied Physics Lab
 * Harold Solbrig, Johns Hopkins
 * Tricia Francis, Johns Hopkins
@@ -41,6 +43,7 @@ HL7 approached the project leaders for Data Harmonization about strengthening HL
 * Meghan Banchero, University of Maryland
 * Wanda Fink, University of Maryland
 * John Hong, University of Maryland
+* Eun-Shim Nahm, University of Maryland
 
 The conclusions of this summit included:
 * affirmation that translational research can benefit greatly from a cannonical standard
