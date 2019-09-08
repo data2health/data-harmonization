@@ -3,7 +3,6 @@
 [HL7 FHIR Servers for testing](https://wiki.hl7.org/index.php?title=Publicly_Available_FHIR_Servers_for_testing)
 
 |FHIR Server | Bunsen | MS FHIR Opensource/<br>Managed | Google FHIR | Vonk FHIR (licensed) | HAPI FHIR | Smile CDR |
-|------------|--------|----------------------------|-------------|----------------------|-----------|-----------|
 |RESTful APIs|No    |Weak |Yes |Yes |Yes |Yes |Yes|
 |Authentication|N/A|No/Yes|Yes|Yes|No|Yes|
 |Bulk Insert Endpoints/Tools|Yes|No|Yes|Yes|Yes|Yes|
