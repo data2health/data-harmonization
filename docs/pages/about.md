@@ -29,7 +29,7 @@ Tricia Francis (@tricfran) | JHU | Chris Chute (@cgchute)
 
 ## Full Team Members 
 
-Team members are listed [here](https://github.com/data2health/data-harmonization/blob/master/team.md). 
+Team members are listed below and [here](https://github.com/data2health/data-harmonization/blob/master/team.md).
 
 ## Contributor(s)
 Name | GitHub Handle | Site
