@@ -1,20 +1,3 @@
-## Subgroup: FHIR Server Options
-Interested in participating in this subgroup: 
-
-| Team |
-| ------ |
-| Thomas Oberst |
-| Leslie Lenert |
-| Eugene Sadhu (UIC) |
-| Aaron Zhang (JAX) |
-|Erik Benton (OHSU) |
-| Adam Lee (UNC) |
-| Diane Koher |
-| Alex Edwards (Emory) |
-| Allison Heath (CHOP) |
-| Chris Chute (JHU) |
-| Richard Zhu (JHU) |
-
 ## FHIR Repository Options
 
 [HL7 FHIR Servers for testing](https://wiki.hl7.org/index.php?title=Publicly_Available_FHIR_Servers_for_testing)
