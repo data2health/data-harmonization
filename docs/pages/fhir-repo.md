@@ -6,10 +6,10 @@
 |------------|--------|----------------------------|-------------|----------------------|-----------|-----------|
 |RESTful APIs|No    |Weak |Yes |Yes |Yes |Yes |Yes|
 |Authentication|N/A|No/Yes|Yes|Yes|No|Yes|
-|Bulk Insert Endpoints/<br>Tools|Yes|No|Yes|Yes|Yes|Yes|
-|FHIR Version|R4<br>(python)|STU3|STU3|R4|R4|R4|
-|Database control/<br>location|Yes/On premise|No/Cloud|No/<br>Cloud|Yes/On premise|Yes/On premise|Yes/On premise|
-|Data security/<br>Compliance|N/A|Yes/<br>Unknown|Yes|N/A|N/A|N/A|
+|Bulk Insert Endpoints/Tools|Yes|No|Yes|Yes|Yes|Yes|
+|FHIR Version|R4 (python)|STU3|STU3|R4|R4|R4|
+|Database control/location|Yes/On premise|No/Cloud|No/Cloud|Yes/On premise|Yes/On premise|Yes/On premise|
+|Data security/Compliance|N/A|Yes/Unknown|Yes|N/A|N/A|N/A|
 |External Terminology Server|No|No|No|Unknown|No|No|
 <td colspan = "7" align="right"> Sai Simhadri, Raju Hemadri, Vandana Chopra</td>
 
