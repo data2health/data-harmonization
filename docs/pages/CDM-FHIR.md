@@ -27,3 +27,12 @@ In order to achieve a sustainable data network infrastructure, promote interoper
     * HMOrn → POPMedNet → Sentinel → PCORNet
     * I2b2 Shrine
 
+### Have Clinical Standards Caught Up FHIR Phenomenon
+* FHIR has emerged over the past five years
+* Now endorsed and supported by:
+    * Government (ONC, NIH, CDC, FDA, VA, CMS, DOD)
+    * Industry (Argonaut group)
+    * Payers (da Vinci group)
+    * Academia (informatics groups)
+    * Community Providers
+    * HIEs
