@@ -13,7 +13,7 @@ The Data Harmonization Working Group in CD2H hosted a two-day (May 20-21) worksh
 For details about this workshop, see this link:  [Workshop](https://data2health.github.io/data-harmonization/docs/pages/BaltimoreWorkshop)
     
 
-* [**CDM-FHIR Mappings**](https://drive.google.com/drive/folders/1Mrt0xFfvcYhOfoAq_KnT7R5bYk7TZ6h0?usp=sharing) (will be no link)
+* [**CDM-FHIR Mappings**](pages/CDM-FHIR.md)
     * The CDM-FHIR Gap Analaysis Task Team has complied the most comprehensive mappings assembled to date. If you know of any other mappings that you do not see here, please add.    
     * [PCORNet ValueSet Mappings Table](https://drive.google.com/file/d/16YXiVahqUsGSXkzie7764A0IRvoVGs7k/view?usp=sharing)
     * [ACT(i2b2) ValueSet Mappings Table](https://drive.google.com/file/d/1wsxj-OVpIfRRNwZau2A4uHV2MibZGVX9/view?usp=sharing)
