@@ -1,7 +1,7 @@
 The CD2H Data Harmonization project, part of the CD2H Next Generation Data Repository Core, identifies and curates resources and tools that enable a common framework for rendering and querying clinical data. Central to the effort is designating the HL7 FHIR specification as a canonical hub to simplify integration from clinical electronic health records and transform into a broad spectrum of translational research data models. We do this by engaging expertise across the CTSA community through workshops, electronic workspaces, and community web events.
 
 * [About](pages/about.md)
-* [Sample Use Cases](pages/use_cases/index.md)
+* Sample Use Cases
 * [FAQs](pages/faqs.md)
 * [Provide Feedback](pages/provide_feedback.md)
 
