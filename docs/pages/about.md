@@ -42,7 +42,7 @@ Team members are listed below and [here](https://github.com/data2health/data-har
 
 ## Contributor(s)
 Name | GitHub Handle | Site
--- | -- | --
+--- | --- | ---
 Wendy Blumenthal | [github.com](http://github.com) | CDC/NPCR
 Matthew Brush | [mbrush](http://github.com/mbrush) | OHSU
 Catherine  Craven | [github.com](http://github.com) | Icahn
@@ -77,7 +77,7 @@ Richard Zhu | [richard1933](http://github.com) | JHU
 
 ## Mailing list only
 Name | GitHub Handle | Site
--- | -- | --
+--- | --- | ---
 Chris Amos | [github.com](http://github.com) | Baylor
 Nick Anderson | [flipcorp](http://github.com/flipcorp) | UCDavisHealth
 Michael Bales | [michaelbales1](http://github.com/michaelbales1) | Cornell
