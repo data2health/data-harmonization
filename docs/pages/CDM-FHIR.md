@@ -1,4 +1,4 @@
-## Common Data Model-FHIR Gap Analysis
+## Common Data Model (CDM) - FHIR Gap Analysis
 
     Task team collaboration
     
