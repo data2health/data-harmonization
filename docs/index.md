@@ -10,6 +10,30 @@ The CD2H Data Harmonization project, part of the CD2H Next Generation Data Repos
 
 ## Explore Our Work
 * [Federated Data Query Workshop May 20 & 21st, 2019: Subject Matter Expert Slide & Video Presentations](https://drive.google.com/drive/folders/1kgcoV8BW_9Zg7XLwObw9HXAO4aJLamQQ?usp=sharing) 
+Clinical Data Harmonization
+
+The Data Harmonization Working Group in CD2H hosted a two-day (May 20-21) workshop in Baltimore on data harmonization and federated query.  Presentations with video and slides are available in this folder .  The first part of the meeting overviewed common data models prevalent among CTSA hubs, outlining their structure, evolution, governance, and operations.  OMOP/OHSDI, PCORNet, and ACT were featured.  Additional presentations were made about HL7 FHIR, including its integration with i2b2 repositories, its role in the NCATS/FDA/CDC data model harmonization efforts, and its potential as a canonical hub for translational research data interoperability.   The importance of maintaining linkages from the traditional common data models into and out of FHIR repositories was emphasized.
+
+The second group of presentations illustrated a federated research query system in South Carolina, built around FHIR queries and data repositories.  Colleagues from the CDC overviewed the challenges of public health data surveillance, and the role that FHIR can play in federate query of clinical organizations.  The CTSA ACT consortium and its leveraging of SHIRE for federated query was expanded upon.  Efforts in large research consortia to incorporate data elements of importance to translational research, such as the eMERGE efforts with genomics, were highlighted.   Finally, practical open-source FHIR servers from Google and the Cerner Bunsen project were described.
+
+Panels and breakout groups further explored these themes, and the practical issues confronting CTSA hubs.  A full manuscript about the meeting will be forthcoming.  Among the concluding points of convergence were:
+
+Establish a translational research connection with the HL7 and FHIR development community, such as a Translational Research Working Group
+Systematically study how traditional common data models can be represented in FHIR, and explicitly identify gaps for components that cannot be represented presently
+Identify and package FHIR education materials appropriate for CTSA informatics teams with appropriate context, introduction, and brief description
+Enumerate, describe, and compare existing FHIR-based data repositories from IT vendors and open-source development groups, for application in translation science
+Convene a task group to examine sustainability strategies for data management infrastructure, and change management across CTSA organizations
+All of these task groups have been created:
+
+HL7 Engagement
+CDM-FHIR Gap Analysis
+FHIR Server Options
+Sustainability and Change Management 
+For detailed status on these projects and teams go to: https://github.com/data2health/data-harmonization  
+
+Contact Tricia Francis  if you would like to participate in one of these task groups.  For more infomration on these task groups see Get involved below.
+
+
 * [Clinical Data Harmonization and Federated Query for Translational Research: Reflections and Report on a CD2H Workshop](https://docs.google.com/document/d/1fda3KLqPfDsAJ3Ah1MdqpxC4PSoCXBNy9ATWSiFG8CY/edit?usp=sharing) 
     * This report, developed by a small team of representatives across the CTSA community, is ready for input across the wider CTSA community.  Your review and input is requested in this collaborative document.   
 * [CDM-FHIR Mappings](https://drive.google.com/drive/folders/1Mrt0xFfvcYhOfoAq_KnT7R5bYk7TZ6h0?usp=sharing)
