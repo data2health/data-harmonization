@@ -32,6 +32,11 @@ The CD2H Data Harmonization project, part of the CD2H Next Generation Data Repos
 * [**CDM-FHIR Mappings**](https://drive.google.com/drive/folders/1Mrt0xFfvcYhOfoAq_KnT7R5bYk7TZ6h0?usp=sharing)
     * The CDM-FHIR Gap Analaysis Task Team has complied the most comprehensive mappings assembled to date. If you know of any other mappings that you do not see here, please add.    
     * [PCORNet ValueSet Mappings Table](https://drive.google.com/file/d/16YXiVahqUsGSXkzie7764A0IRvoVGs7k/view?usp=sharing)
+    * ACT(i2b2) ValueSet Mappings Table
+    * OHDSI FHIR WG Mappings
+    * To Create CAMP FHIR views from PCORnet
+    * To Create CAMP FHIR views from ACT
+
 * [Data Harmonization Maturity Model](https://docs.google.com/document/d/1IKKbSxe19ZgayDnv5cqTUzDswNGWQvKZNUc2IgZvaL8/edit?usp=sharing)
     * The Sustainability and Change Management Task Team has developed a data harmonization maturity model and it is ready for wider CTSA Community input.  Are there other factors that should be considered?  Please add your feedback.  
 
