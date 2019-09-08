@@ -51,6 +51,16 @@ The conclusions of this summit included:
 
 CD2H has formally applied to create a Translationial Research Working group at HL7.  Discussions with the leadership of the Biomedical Research and Regulation Working Group, with whom such a new working group would have to collaboration closely, have begun.  CD2H representation will occur at the Research on FHIR Forum taking place durnig the FHIR hackthon in Atlanta on Sunday, 15 September.  The request will be discussed by the HL7 Techniical Steering Committee.
 
+### HL7 Engagement Task Team
+
+CTSA members attending the [Federated Data Query Workshop] (https://data2health.github.io/data-harmonization/pages/BaltimoreWorkshop.html) that indicated interest in participating in the work group include:
+* Chris Chute, Hopkins
+* Harold Solbrig, Hopkins
+* Guoqian Jiang, Mayo Clinic
+* Catherine Craven, Mt. Sinai
+* Doug Reed, GWU
+* Svetlana Rojevsky, Tufts
+
 #### Back to [home](https://data2health.github.io/data-harmonization/)
 
 ##### A project of the National Center for Data to Health (Grant U24TR002306)
