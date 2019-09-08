@@ -1,3 +1,11 @@
+## Subgroup: FHIR Server Options
+Interested in participating in this subgroup
+
+|Thomas Oberst|
+|Leslie Lenert|
+|Eugene Sadhu (UIC)|
+|Aaron Zhang (JAX)|
+
 ## FHIR Repository Options
 
 [HL7 FHIR Servers for testing](https://wiki.hl7.org/index.php?title=Publicly_Available_FHIR_Servers_for_testing)
