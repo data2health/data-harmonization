@@ -1,6 +1,6 @@
 ---
 ## HL7 FHIR Engagement
-### Baltiimore Summit with HL7 and FHIR Leadership
+### Baltimore Summit with HL7 and FHIR Leadership
 
 HL7 approached the project leaders for Data Harmonization about strengthening HL7 standards for translational research, parcitularly around FHIR resources.  The CD2H team hosted HL7 and FHIR leadership in a special forum in Baltimore on May 2nd, 2019, to discuss options for advancing interoperabilty standards relevent to CTSA sponsored translational research.  Among the attendees at this meeting were:
 
@@ -24,7 +24,7 @@ HL7 approached the project leaders for Data Harmonization about strengthening HL
 * Ross Martin, Research Lead, Chesapeake Regional Information System for our Patients (CRISP - MD HIE)
 * Jeff Smith, Vice President for Policy, AMIA
 * Ed Hammond, Duke University
-* Brian Alper, Evididence Based Medicine FHIR resource lead, EBSCO.com
+* Brian Alper, Evidence Based Medicine FHIR resource lead, EBSCO.com
 * Geoffrey Osier, JHU Applied Physics Lab
 * Jordan Matelsky, JHU Applied Physics Lab
 * Stephanie Howson, JHU Applied Physics Lab
@@ -56,7 +56,7 @@ CD2H has formally applied to create a Translationial Research Working group at H
 
 ### HL7 Engagement Task Team
 
-CTSA members attending the [Federated Data Query Workshop] (https://data2health.github.io/data-harmonization/pages/BaltimoreWorkshop.html) that indicated interest in participating in the work group include:
+CTSA members attending the [Federated Data Query Workshop](https://data2health.github.io/data-harmonization/pages/BaltimoreWorkshop.html) that indicated interest in participating in the work group include:
 * Chris Chute, Hopkins
 * Harold Solbrig, Hopkins
 * Guoqian Jiang, Mayo Clinic
