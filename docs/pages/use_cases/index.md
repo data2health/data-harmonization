@@ -6,6 +6,6 @@
 
 [Use Case 3: Building the Software Development Team](use_case_three.md)
 
-##### Back to [home](https://data2health.github.io/CTS-Personas/)
+##### Back to [home](https://data2health.github.io/data-harmonization/)
 
 ###### A project of the National Center for Data to Health (Grant U24TR002306)
