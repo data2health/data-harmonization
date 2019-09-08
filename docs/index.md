@@ -34,7 +34,7 @@ We are looking for community participation in the following areas:
 - [CDM-FHIR Gap Analysis Task Team](https://drive.google.com/drive/folders/1TUwrDaH-2eRv3ofkY1tm2NbX7XttK3hx?usp=sharing)
 - [Sustainability and Change Management Task Team](https://docs.google.com/document/d/1_32CiANmo8W1TRG5IofqzJZmpgtu-s1jNenXu_efmtg/edit?usp=sharing) 
 - [FHIR Server Options Task Team](pages/fhir-repo.md)
-- [HL7 Engagement Task Team](https://docs.google.com/document/d/1Li6X6W2ck_XhYWr6RhpHtAaFI8rJmJAnjVQwvokhy14/edit?usp=sharing) 
+- [HL7 Engagement Task Team](https://data2health.github.io/data-harmonization/pages/HL7_WG.html) 
 
 - [Clinical Data Harmonization and Federated Query for Translational Research: Reflections and Report on a CD2H Workshop - Manuscript](https://docs.google.com/document/d/1fda3KLqPfDsAJ3Ah1MdqpxC4PSoCXBNy9ATWSiFG8CY/edit?usp=sharing) 
     * This report, developed by a small team of representatives across the CTSA community, though unfinished, is avialable for input across the wider CTSA community.  Your review and input is requested in this collaborative document.   
