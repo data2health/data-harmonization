@@ -39,6 +39,7 @@ Matthew Brush | [mbrush](http://github.com/mbrush) | OHSU
 Catherine  Craven | [github.com](http://github.com) | Icahn
 Peter Elkin | [github.com](http://github.com) | UBuffalo
 Tricia Francis | [tricfran](http://github.com/tricfran) | JHU
+Davera Gabriel | [github.com](http://github.com) | JHU
 Ken Gersing | [KenGersing](https://github.com/KenGersing) | NCATS
 Gideon Gordon | [github.com](http://github.com) | CDER
 Aaron Harris | [github.com](http://github.com) | CDC/DVH
@@ -63,6 +64,7 @@ Abby Viall | [aviall](https://github.com/aviall) | CDC/DDID/NCHHSTP/OD
 Sam Volchenboum | [volcs0](https://github.com/volcs0) | UChicago
 Adam Wilcox | [abwilcox](http://github.com/abwilcox) | UW
 DuWayne Willett | [duwaynewillett](https://github.com/duwaynewillett) | UTSouthwestern
+Richard Zhu | [github.com](http://github.com) | JHU
 
 ## Mailing list only
 Name | GitHub Handle | Site
