@@ -13,7 +13,7 @@ The Data Harmonization Working Group in CD2H hosted a two-day (May 20-21) worksh
 For details about this workshop, see this link:  [Workshop](https://data2health.github.io/data-harmonization/pages/BaltimoreWorkshop.html)
     
 
-* [**CDM-FHIR Mappings**](pages/CDM-FHIR.md)
+### [**CDM-FHIR Mappings**](pages/CDM-FHIR.md)
     * The CDM-FHIR Gap Analaysis Task Team has complied the most comprehensive mappings assembled to date. If you know of any other mappings that you do not see here, please add.    
     * [PCORNet ValueSet Mappings Table](https://drive.google.com/file/d/16YXiVahqUsGSXkzie7764A0IRvoVGs7k/view?usp=sharing)
     * [ACT(i2b2) ValueSet Mappings Table](https://drive.google.com/file/d/1wsxj-OVpIfRRNwZau2A4uHV2MibZGVX9/view?usp=sharing)
@@ -21,7 +21,7 @@ For details about this workshop, see this link:  [Workshop](https://data2health.
     * To Create CAMP FHIR views from PCORnet (with link)
     * To Create CAMP FHIR views from ACT (with link)
 
-* [Data Harmonization Maturity Model](https://docs.google.com/document/d/1IKKbSxe19ZgayDnv5cqTUzDswNGWQvKZNUc2IgZvaL8/edit?usp=sharing)
+### [Data Harmonization Maturity Model](https://docs.google.com/document/d/1IKKbSxe19ZgayDnv5cqTUzDswNGWQvKZNUc2IgZvaL8/edit?usp=sharing)
     * The Sustainability and Change Management Task Team has developed a data harmonization maturity model and it is ready for wider CTSA Community input.  Are there other factors that should be considered?  Please add your feedback.  
 
 
