@@ -28,6 +28,7 @@ Project scientific leadership:
 | Tricia Francis (@tricfran) | JHU | Chris Chute (@cgchute) |
 
 ## Core Team Members
+
 | Johns Hopkins University | Univeristy of North Carolina | Oregon Health & Science University| Mayo Clinic |
 | ---------- | -------------- | ------------------------- | -------------- |
 | Christopher Chute |	Emily Pfaff | Shahim Essaid | Guoqian Jiang |
