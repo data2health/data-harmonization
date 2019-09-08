@@ -10,12 +10,12 @@ The CD2H Data Harmonization project, part of the CD2H Next Generation Data Repos
 ## Explore Our Work
 ### Federated Data Query Workshop May 20 & 21st, 2019
 The Data Harmonization Working Group in CD2H hosted a two-day (May 20-21) workshop in Baltimore on data harmonization and federated query. 
-For details about this workshop, see this link:  [Workshop](https://data2health.github.io/data-harmonization/pages/BaltimoreWorkshop.html)
+For details about this workshop, including industry subject matter expert presentations, see this link:  [Workshop](https://data2health.github.io/data-harmonization/pages/BaltimoreWorkshop.html)
     
 
-### [**CDM-FHIR Mappings**](pages/CDM-FHIR.md)
+### **CDM-FHIR Mappings**
 
-* The CDM-FHIR Gap Analaysis Task Team has complied the most comprehensive mappings assembled to date. If you know of any other mappings that you do not see here, please add.    
+* The CDM-FHIR Gap Analaysis Task Team has complied the most [comprehensive mappings](pages/CDM-FHIR.md) assembled to date. If you know of any other mappings that you do not see here, please add.    
 * [PCORNet ValueSet Mappings Table](https://drive.google.com/file/d/16YXiVahqUsGSXkzie7764A0IRvoVGs7k/view?usp=sharing)
 * [ACT(i2b2) ValueSet Mappings Table](https://drive.google.com/file/d/1wsxj-OVpIfRRNwZau2A4uHV2MibZGVX9/view?usp=sharing)
 * OHDSI FHIR WG Mappings (with link)
