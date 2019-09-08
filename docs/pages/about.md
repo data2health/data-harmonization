@@ -7,7 +7,9 @@ The emergence and prevalence of electronic health records (EHRs)  fundamentally 
 
 ### Project Description
 
+Many excellent common data models exist in the translational research space. While such diversity may seem a feature, it actually complicates the efforts of CTSA hubs to support all of them. Furthermore, the widely shared goal of CTSA's functioning as an integrated network of investigators and data is challenged by the heterogeneity across data repositories.
 
+The Accelerating Clinical Trials (ACT) is an effort to achieve an effective clinical data network across the CTSA community.  CD2H is working closely with ACT to simplify the task of creating a shared repository, and to interoperate with collegial data networks such as OHDSI, PCORNet, and TriNetX.
 
 ### Meet the Team
 
