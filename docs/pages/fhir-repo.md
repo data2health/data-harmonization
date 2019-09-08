@@ -1,10 +1,12 @@
 ## Subgroup: FHIR Server Options
-Interested in participating in this subgroup
+Interested in participating in this subgroup: 
 
-|Thomas Oberst|
-|Leslie Lenert|
-|Eugene Sadhu (UIC)|
-|Aaron Zhang (JAX)|
+| Team |
+| ------ |
+| Thomas Oberst |
+| Leslie Lenert |
+| Eugene Sadhu (UIC) |
+| Aaron Zhang (JAX) |
 
 ## FHIR Repository Options
 
