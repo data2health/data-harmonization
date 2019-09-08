@@ -27,6 +27,15 @@ Point person (github handle) | Site | Program Director
 ----------|--------------|---------------
 Tricia Francis (@tricfran) | JHU | Chris Chute (@cgchute)
 
+## Core Team Members
+Johns Hopkins University | Univeristy of North Carolina | Oregon Health & Science University| Mayo Clinic
+-- | -- | -- | --
+Christopher Chute |	Emily Pfaff| Shahim Essaid | Guoqian Jiang
+Tricia Francis | 	
+Harold Solbig	| 		
+Richard Zhu | 		
+Davera Gabriel | 			
+
 ## Full Team Members 
 
 Team members are listed below and [here](https://github.com/data2health/data-harmonization/blob/master/team.md).
