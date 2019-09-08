@@ -24,6 +24,10 @@ Mapping to, from, and among translational research common data models can be gre
 * To Create CAMP FHIR views from PCORnet (with link)
 * To Create CAMP FHIR views from ACT (with link)
 
+### HL7 FHIR Standard Engagement
+
+The CD2H team is engaging the HL7 and FHIR communities around interoperability standards critical to large-scale translational research.  A summary of current activities is here:  [HL7 Engagement and Translational Research Working Group](https://data2health.github.io/data-harmonization/pages/HL7_WG.html)
+
 ### Data Harmonization Maturity Model
 
 * The Sustainability and Change Management Task Team has developed a data harmonization maturity model and it is ready for wider CTSA Community input.  Please review and add your feedback to [Data Harmonization Maturity Model](https://docs.google.com/document/d/1IKKbSxe19ZgayDnv5cqTUzDswNGWQvKZNUc2IgZvaL8/edit?usp=sharing).
@@ -36,7 +40,7 @@ We are looking for community participation in the following areas:
 - [CDM-FHIR Gap Analysis Task Team](https://drive.google.com/drive/folders/1TUwrDaH-2eRv3ofkY1tm2NbX7XttK3hx?usp=sharing)
 - [Sustainability and Change Management Task Team](https://docs.google.com/document/d/1_32CiANmo8W1TRG5IofqzJZmpgtu-s1jNenXu_efmtg/edit?usp=sharing) 
 - [FHIR Server Options Task Team](pages/fhir_option_task_team.md)
-- [HL7 Engagement and Translational Research Working Group](https://data2health.github.io/data-harmonization/pages/HL7_WG.html) 
+- [HL7 Engagement Task Group](https://docs.google.com/document/d/1Li6X6W2ck_XhYWr6RhpHtAaFI8rJmJAnjVQwvokhy14/edit) Here is a Google Doc of CTSA members interested in engaging the HL7 FHIR community.  Add your name to this list, and inform Tricia Francis at pfranci4@jhu.edu. 
 
 - [Clinical Data Harmonization and Federated Query for Translational Research: Reflections and Report on a CD2H Workshop - Manuscript](https://docs.google.com/document/d/1fda3KLqPfDsAJ3Ah1MdqpxC4PSoCXBNy9ATWSiFG8CY/edit?usp=sharing) 
     * This report, developed by a small team of representatives across the CTSA community, though unfinished, is avialable for input across the wider CTSA community.  Your review and input is requested in this collaborative document.   
