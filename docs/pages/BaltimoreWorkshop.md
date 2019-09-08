@@ -9,16 +9,16 @@ The second group of presentations illustrated a [federated research query system
 [Panels](http://webcast.jhu.edu/Mediasite/Play/986a0dd739824eeea34c92166fe88a5b1d)
  and [breakout groups](https://drive.google.com/drive/folders/1JDuhN7dCoMjI-rZ-ooT8JPh8ppB0eRWt) further explored these themes, and the practical issues confronting CTSA hubs.  A full manuscript about the meeting will be forthcoming (for more information about the manuscript see **Get involved** below).  Among the concluding points of convergence were:
 
-    * Establish a translational research connection with the HL7 and FHIR development community, such as a Translational Research Working Group
-    * Systematically study how traditional common data models can be represented in FHIR, and explicitly identify gaps for components that cannot be represented presently
-    * Identify and package FHIR education materials appropriate for CTSA informatics teams with appropriate context, introduction, and brief description
-    * Enumerate, describe, and compare existing FHIR-based data repositories from IT vendors and open-source development groups, for application in translation science
-    * Convene a task group to examine sustainability strategies for data management infrastructure, and change management across CTSA organizations
-        * All of these task groups have been created:
-           * CDM-FHIR Gap Analysis
-           * Sustainability and Change Management
-           * FHIR Server Options
-           * HL7 Engagement
+* Establish a translational research connection with the HL7 and FHIR development community, such as a Translational Research Working Group
+* Systematically study how traditional common data models can be represented in FHIR, and explicitly identify gaps for components that cannot be represented presently
+* Identify and package FHIR education materials appropriate for CTSA informatics teams with appropriate context, introduction, and brief description
+* Enumerate, describe, and compare existing FHIR-based data repositories from IT vendors and open-source development groups, for application in translation science
+* Convene a task group to examine sustainability strategies for data management infrastructure, and change management across CTSA organizations
+   * All of these task groups have been created:
+        * CDM-FHIR Gap Analysis
+        * Sustainability and Change Management
+        * FHIR Server Options
+        * HL7 Engagement
 For more information on these task groups see **Get involved** on our home page [home](https://data2health.github.io/data-harmonization/).
 
 All presentations, attendees, and notes are available at this web site.
