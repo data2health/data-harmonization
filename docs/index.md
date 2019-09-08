@@ -51,5 +51,5 @@ If you are interested in participating, please [onboard here](http://bit.ly/cd2h
 
 ## Working documents
 Documentation for the various data harmonization task teams can be found at [this Google drive folder](https://drive.google.com/drive/folders/14cMMsDExi7KsmkX49d8_zX7ojeCuW7_P?usp=sharing)
-and project specific work may be in this GitHub using the wiki or .md files.
+and project specific work may be located at the [data-harmonization GitHub repo](https://github.com/data2health/data-harmonization) in the wiki or .md files.
 
