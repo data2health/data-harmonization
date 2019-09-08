@@ -36,3 +36,15 @@ In order to achieve a sustainable data network infrastructure, promote interoper
     * Academia (informatics groups)
     * Community Providers
     * HIEs
+
+### Is FHIR Ready to become Canonical Hub CDM?
+* Con:
+    * FHIR not fully specified/completed (still drafts)
+    * It is a messaging specification, not a model
+    * Deliberately underspecified (bindings optional)
+* Pro:
+    * Bindings can be national (US Core, ACT)
+    * Very large development community (Admin to OMICS)
+    * Native support by EHRs, minimal ETL
+    * FHIR “Resources” as de facto logical model
+    * Physical model irrelevant behind conformant server
