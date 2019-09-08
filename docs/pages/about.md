@@ -1,23 +1,20 @@
 ---
 ## About
 
-### Translational workforce roles and persona profiles
+### Clinical Data Harmonization
 
-This project encompasses and describes the diversity of roles in the clinical and translational (CTS) science ecosystem. Twelve employee roles in CTS, and two patients, have been provided with a profile documenting needs, motivations, goals, and pain points. These insights can be employed to inform software development, use cases, teaching materials, and more for the CTSA community. 
-
+The emergence and prevalence of electronic health records (EHRs)  fundamentally transformed th opportunities   for efficient translational research at scale. However, the syntactic and semantic content of EHRs remain sufficiently inconsistent between and among implementations that additional efforts for normalization are necessary across a Federated network such as the CTSA. This project is about enabling comparable and consistent representation of clinical data across the CTSA network to support federated query and facilitate large-scale translational research collaboration. 
 
 ### Project Description
 
-The concept of the translational workforce is an important one and plays a prominent role in the work and communication of CTSA Program hubs, NCATS, and beyond. However, to date, a defined list of translational workforce roles in CTS does not exist. Our goal has been to better define the specific roles included in the translational workforce, establish a set of personas to reflect those roles, construct a portfolio of these persona profiles, and disseminate broadly to the CTSA program and to the CD2H for use in development of use cases, communications, training materials, and more.
 
-The CTS personas reflect the spectrum of translation and the diversity of roles required for successful translation at the local hub level and span across the translational signposts as defined by NCATS of Basic Research →  Pre-Clinical Research → Clinical Research → Clinical Implementation → Public Health. By compiling lists of CTS position descriptions and roles, completing research elucidating the needs, motivations, goals, technological proficiency and pain points of those occupying these roles, and condensing the research into easy to understand, one-page Personas profiles, we hope to assist and inform CTSA program sites, partner sites, and beyond in developing sofware solutions, training and engagement materials, and more.
 
 ### Meet the Team
 
 | Johns Hopkins| Univeristy of North Carolina | Oregon Health & Science University | Mayo Clinic
 | --- | --- | --- | --- |
-| Christopher Chute | Emily Pfaff | Shahim Essaid | Guoquian Jiang
-| Tricia Francis |  |      |        |
+| Christopher Chute | Emily Pfaff | Shahim Essaid | Guoqian Jiang
+| Tricia Fancis |  |      |        |
 | Harold Solbig |  |      |        |
 | Richard Zhu |  |     |       |
 | Davera Gabriel |        |    |     |                                   
