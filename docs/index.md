@@ -37,7 +37,7 @@ We are looking for community participation in the following areas:
 - [HL7 Engagement Task Team](https://docs.google.com/document/d/1Li6X6W2ck_XhYWr6RhpHtAaFI8rJmJAnjVQwvokhy14/edit?usp=sharing) 
 
 - [Clinical Data Harmonization and Federated Query for Translational Research: Reflections and Report on a CD2H Workshop - Manuscript](https://docs.google.com/document/d/1fda3KLqPfDsAJ3Ah1MdqpxC4PSoCXBNy9ATWSiFG8CY/edit?usp=sharing) 
-    * This report, developed by a small team of representatives across the CTSA community, is ready for input across the wider CTSA community.  Your review and input is requested in this collaborative document.   
+    * This report, developed by a small team of representatives across the CTSA community, though unfinished, is avialable for input across the wider CTSA community.  Your review and input is requested in this collaborative document.   
     
 If you are interested in participating, please [onboard here](http://bit.ly/cd2h-onboarding-form) or contact Tricia Francis at pfranci4@jhu.edu with any questions.
 
