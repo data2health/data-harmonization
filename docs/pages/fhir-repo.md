@@ -7,16 +7,16 @@ In order to avoid spam etc, the servers are generally password protected. A cont
 
 ## Evaluation of FHIR Servers:
 
-|FHIR Server | Bunsen | MS FHIR Opensource/Managed | Google FHIR | Vonk FHIR (licensed) | HAPI FHIR | Smile CDR |
-|------------|--------|----------------------------|-------------|----------------------|-----------|-----------|
-|RESTful APIs|No    |Weak |Yes |Yes |Yes |Yes |Yes|
-|Authentication|N/A|No/Yes|Yes|Yes|No|Yes|
-|Bulk Insert Endpoints/Tools|Yes|No|Yes|Yes|Yes|Yes|
-|FHIR Version|R4 (python)|STU3|STU3|R4|R4|R4|
-|Database control/location|Yes/On premise|No/Cloud|No/Cloud|Yes/On premise|Yes/On premise|Yes/On premise|
-|Data security/Compliance|N/A|Yes/Unknown|Yes|N/A|N/A|N/A|
-|External Terminology Server|No|No|No|Unknown|No|No|
-<td colspan = "7" align="right"> Sai Simhadri, Raju Hemadri, Vandana Chopra</td>
+| FHIR Server | Bunsen | MS FHIR Opensource/Managed | Google FHIR | Vonk FHIR (licensed) | HAPI FHIR | Smile CDR |
+| ------------ | -------- | ---------------------------- | ------------- | ---------------------- | ----------- | ----------- |
+| RESTful APIs | No    | Weak | Yes | Yes | Yes | Yes | Yes |
+| Authentication | N/A | No / Yes | Yes | Yes | No | Yes |
+| Bulk Insert Endpoints/Tools | Yes | No | Yes | Yes | Yes | Yes |
+| FHIR Version | R4 (python) | STU3 | STU3 | R4 | R4 | R4 |
+| Database control/location | Yes/On premise | No/Cloud | No/Cloud | Yes/On premise | Yes/On premise | Yes/On premise |
+| Data security/Compliance | N/A | Yes/Unknown | Yes | N/A | N/A | N/A |
+| External Terminology Server | No | No | No | Unknown | No | No |
+Sai Simhadri, Raju Hemadri, Vandana Chopra
 
 
 ## Scope and Purpose
