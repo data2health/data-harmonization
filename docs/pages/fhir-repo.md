@@ -16,6 +16,7 @@ In order to avoid spam etc, the servers are generally password protected. A cont
 | Database control/location | Yes/On premise | No/Cloud | No/Cloud | Yes/On premise | Yes/On premise | Yes/On premise |
 | Data security/Compliance | N/A | Yes/Unknown | Yes | N/A | N/A | N/A |
 | External Terminology Server | No | No | No | Unknown | No | No |
+
 Sai Simhadri, Raju Hemadri, Vandana Chopra
 
 
