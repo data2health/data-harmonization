@@ -109,7 +109,7 @@ Sai Simhadri, Raju Hemadri, Vandana Chopra
 
 ## HAPI FHIR Server 4.0.0
 Released on August 14, 2019
-"http://hapifhir.io/" 
+[http://hapifhir.io/](http://hapifhir.io/)
 
 * A new consent framework called _ConsentInterceptor_ that can be used to apply local consent directives and policies, and potentially filter or mask data has been added
 * Initial support for draft FHIR R5 resources has been added
