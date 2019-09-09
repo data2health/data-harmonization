@@ -17,7 +17,7 @@ For details about this workshop, including industry subject matter expert presen
 
 Mapping to, from, and among translational research common data models can be greatly facilitated by invoking FHIR as a canonical hub.  An analyis of many existing mapping is updated on this page:  [CDM-FHIR Mappings](pages/CDM-FHIR.md). 
 
-There are many [FHIR Servers option](pages/fhir-repo.md) for FHIR repositorys.
+There are many [FHIR Servers option](pages/fhir-repo.md) for FHIR repositories.
 
 * The CDM-FHIR Gap Analaysis Task Team has complied the most [comprehensive mappings](https://drive.google.com/drive/folders/1Mrt0xFfvcYhOfoAq_KnT7R5bYk7TZ6h0?usp=sharing) assembled to date. If you know of any other mappings that you do not see here, please add.    
 * [PCORNet ValueSet Mappings Table](https://drive.google.com/file/d/16YXiVahqUsGSXkzie7764A0IRvoVGs7k/view?usp=sharing)
