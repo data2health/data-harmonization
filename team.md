@@ -75,7 +75,9 @@ Eric Johnson Chavarria | [github.com](http://github.com) | NCI
 Diane Keogh | [gibhub.com](http://gibhub.com) | Harvard
 Ashok Krishnamurthy | [ashokohio](http://github.com/ashokohio) | UNC
 Albert Lai | [laialbert](https://github.com/laialbert) | WashU
+Rebecca Laird | [github.com](http://github.com) | CLIC
 Yupu Liang | [github.com](http://github.com) | Rockefeller
+Prasanth Manukonda | [github.com](http://github.com) | Rockefeller
 Jim McClay | [Standards](https://github.com/UNMCClinicalInfromatics/Standards) | GPCTR
 Eric Miller | [squishymedia](https://github.com/squishymedia) | SquishyMedia
 Sarah Moore | [github.com.](http://github.com.) | OhioState
