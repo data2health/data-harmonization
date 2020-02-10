@@ -30,7 +30,7 @@ There are many [FHIR Servers options](pages/fhir-repo.md) for FHIR repositories.
 
 The CD2H team is engaging the HL7 and FHIR communities around interoperability standards critical to large-scale translational research.  A summary of current activities is here:  [HL7 Engagement and Translational Research Working Group](https://data2health.github.io/data-harmonization/pages/HL7_WG.html)
 
-[HL7 Engagement Webinar, Nov 12th, noon ET/9 am PT, register here (https://drive.google.com/file/d/1x83iZY4LX41TKyndtZMXD5Cwx6kiRUJ2/view?usp=sharing)]
+[HL7 Engagement Webinar, Nov 12th, 2019](https://drive.google.com/file/d/1x83iZY4LX41TKyndtZMXD5Cwx6kiRUJ2/view?usp=sharing) includes:
 - The FHIR development process at HL7 
 - HL7 working group and committee organization 
 - Current HL7 working groups and proposals for research activities 
